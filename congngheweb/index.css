@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+}
+#flex-container{
+  display: flex;
+  justify-content: space-between;
+  height: 200px;
+
+}
+nav{
+  background-color: blue;
+  height: 70px;
+}
+header{
+  background-color: grey  ;
+  height: 400px;
+}
+section{
+  background-color: violet;
+  margin: 70px 100px;
+}
+footer{
+  background-color: black;
+  height: 300px;
+
+}
+p{
+  background-color: grey;
+  height: 200px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+div.col{
+  background-color: green;
+  border: 2px black;
+  width: calc(50%-10px);
+}
