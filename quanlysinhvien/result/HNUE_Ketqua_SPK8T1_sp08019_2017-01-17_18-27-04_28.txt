@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thúy, Quỳnh
+Điểm của thí sinh: 28
+Trong danh sách các loại tệp tin sau, loại tệp tin nào thường được dùng làm định dạng tệp tin cài đặt trong Windows? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Tệp tin .html; Tệp tin .exe
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+WWW là viết tắt của cụm từ nào?
+Điểm đạt được: 1
+Đáp án thí sinh: World Wide Web
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó
+Khi tìm kiếm tệp tin/thư mục thì ký tự "*" dùng để?
+Điểm đạt được: 1
+Đáp án thí sinh: Đại diện cho 1 số ký tự
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Hãy sắp xếp thứ tự các bước cần thực hiện để thiết lập trang chủ.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Trong danh mục các tùy chọn điều khiển và chỉnh sửa của Google Chrome chọn thẻ Setting; 2. Trong nhóm Appearance chọn Show Home button để hiện thị nút home; 3. Nháy chuột chọn Change để mở hộp thoại Home page; 4. Trong hộp thoại Home page, chọn Open this page và nhập địa chỉ trang muốn thiết lập làm trang chủ; 5. Nhấn nút OK để chấp nhận thiết lập
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 1
+Đáp án thí sinh: Loop continuously until Esc
+Dữ liệu ngày tháng được nhập theo kiểu tháng/ ngày/ năm. Hãy sắp xếp các thao tác sau đây thành quy trình đúng để chỉnh dữ liệu lại thành ngày/ tháng/ năm (với 2 chữ số cho ngày, 2 chữ số cho tháng và 4 chữ số cho năm).
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Lựa chọn những ô dữ liệu cần định dạng; 2. Nháy chuột phải chọn Format Cells…; 3. Trong thẻ Number chọn Custom; 4. Nhập dd/mm/yyyy tại ô Type; 5. Nháy chọn OK
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Có thể hồi phục (restore) các tệp tin bị xoá sau khi nhấn phím Delete bằng cách nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Mở Recycle Bin/Nháy chuột phải vào tệp/Restore
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào biểu tượng cho
+phép mở trang chủ của trình duyệt Web
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Hãy nháy chuột vào tùy chọn dùng để tạo khung và đường kẻ cho văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: phải
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 1
+Đáp án thí sinh: Vị trí 1 - Vùng chương trình được đánh dấu; Vị trí 2 - Các chương trình sử dụng gần đây; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Lưu và phân phát (publish) nội dung bài thuyết trình; 4. Thực hiện việc thuyết trình bằng một công cụ trình chiếu
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Nhóm các biểu đồ có thể sử dụng cho các loại dữ liệu khác nhau được đưa vào biểu đồ
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Tiến trình bật máy tính và nạp hệ điều hành

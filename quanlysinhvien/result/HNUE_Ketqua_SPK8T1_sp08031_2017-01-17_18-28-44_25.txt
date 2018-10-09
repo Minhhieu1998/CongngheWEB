@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: An Thị Thu, Thủy
+Điểm của thí sinh: 25
+Hãy ghép nối các biểu tượng với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Đi đến trang tiếp theo;  - Quay trở lại trang Web trước đó;  - Tải lại trang Web đang xem
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Bảng mã và phông chữ không tương thích khi soạn thảo
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Hãy chỉ ra tên các phần mềm diệt virus trong các lựa chọn sau? (Chọn 4)
+Điểm đạt được: 0
+Đáp án thí sinh: Kaspersky; Bkav Pro; Ccleaner; McAee LiveSafe
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Mạng máy tính là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một nhóm gồm hai hoặc nhiều máy tính được kết nối với nhau theo cách để chúng có thể giao tiếp, chia sẻ tài nguyên và trao đổi dữ liệu với nhau
+Để áp dụng chế độ bảo vệ màn hình, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Khi tìm kiếm tệp tin/thư mục thì ký tự "?" dùng để?
+Điểm đạt được: 1
+Đáp án thí sinh: Đại diện cho 1 ký tự
+Muốn tiện ích Windows Media Player của hệ điều hành có thể hỗ trợ xem nhiều loại định dạng âm thanh/video, ta cài đặt thêm gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Cài đặt các phần mềm KMP Player, Total Video Converter
+Để thiết lập chế độ Use Presenter View, bạn cần phải có:
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn cần phải có màn hình thứ hai, hoặc máy chiếu kết nối với máy tính của bạn
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Thực hiện việc thuyết trình bằng một công cụ trình chiếu; 4. Lưu và phân phát (publish) nội dung bài thuyết trình
+Để xoá một tệp, ta thực hiện:
+Điểm đạt được: 1
+Đáp án thí sinh: Mở thư mục chứa tệp, nháy phải chuột vào tên tệp, chọn Delete
+WWW là viết tắt của cụm từ nào?
+Điểm đạt được: 1
+Đáp án thí sinh: World Wide Web
+Tại sao bạn muốn tạo chữ ký trong thư điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Để chứa thông tin chuẩn, chẳng hạn như thông tin liên lạc của bạn trên mỗi bản tin mới.
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Cách nào cho phép bạn tạo một trang chiếu mới có bố cục Two Content?
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, nháy chuột vào mũi tên bên dưới nút lệnh New Slide, chọn bố cục Two Content
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 0
+Đáp án thí sinh: Android; Ubuntu; Linux; Microsoft Office
+Hãy hoàn thành phát biểu sau bằng cách kéo thả cụm từ cho trước vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web dùng để hiển thị các trang Web trên Internet
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Để nén và giải nén tệp/thư mục, trên hệ điều hành Windows cần cài phần mềm gì? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm Winrar; Phần mềm Winzip
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Tin nhắn văn bản là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Là dịch vụ tin nhắn ngắn bị giới hạn số lượng ký tự, được gửi qua mạng di động
+Hãy nháy chuột vào tùy chọn dùng để đánh số thứ tự tự động trong văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Hãy nối tên trang web với thể loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/ - Mạng xã hội; http://vnexpress.net/ - Báo điện tử; http://www.chuyensp.edu.vn/ - Trang tin điện tử nội bộ; https://www.barackobama.com/ - Trang tin điện tử cá nhân

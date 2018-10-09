@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn, Thị Minh Nhớ
+Điểm của thí sinh: 19
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một tập hợp dữ liệu được sử dụng trong biểu đồ
+Bạn đang cân nhắc lựa chọn loại ghế ngồi cho nhân viên trong công ty làm việc với máy tính, bạn nên chọn loại ghế ngồi nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Cho biết các chức năng chính của phần mềm bảng tính excel?
+Điểm đạt được: 1
+Đáp án thí sinh: Thực hiện các phép tính, phân tích giả định “nếu – thì”, biểu diễn dữ liệu bằng biểu đồ, hiển thị sơ đồ, hình ảnh; cung cấp khả năng sắp xếp, tìm kiếm và lọc thông tin.
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 0
+Đáp án thí sinh:  - Slide Show From Beginning;  - Broadcard Slide Show;  - Custom Slide Show;  - Slide Show From Current Slide
+Để áp dụng chế độ bảo vệ màn hình, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 0
+Đáp án thí sinh: Giá trị dạng số; Công thức; Biểu đồ
+Trong Outlook, tính năng Signature cho phép làm gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Tự động gửi một thư được soạn sẵn tới người gửi của các thư gửi đến.
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Hãy chỉ ra tên các phần mềm diệt virus trong các lựa chọn sau? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Bidefender; Kaspersky; Bkav Pro; McAee LiveSafe
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Phát biểu nào đúng về chú thích cuối trang?(Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Số thứ tự đi kèm chú thích được đánh liên tục từ trang đầu đến hết văn bản; Người sử dụng tùy chỉnh được giá trị bắt đầu tính liên tục của số đi kèm chú thích
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Để thay đổi độ phân giải màn hình nền Desktop, bạn nháy chuột phải vào vùng trống trên màn hình nền Desktop và chọn mục chọn nào sau đây?
+Điểm đạt được: 0
+Đáp án thí sinh: Personalize
+Để xoá một tệp, ta thực hiện:
+Điểm đạt được: 0
+Đáp án thí sinh: Mở tệp, chọn toàn bộ nội dung tệp, nhấn phím Delete
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn trang muốn đánh dấu; 2. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 3. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 4. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 5. Nhấn nút Done để hoàn thành
+Tùy chọn nào cho phép gửi bảng tính Excel qua email như là một tệp tin đính kèm?
+Điểm đạt được: 0
+Đáp án thí sinh: Send as PDF
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+World Wide Web là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 1
+Đáp án thí sinh: Vị trí 1 - Vùng chương trình được đánh dấu; Vị trí 2 - Các chương trình sử dụng gần đây; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Hãy nháy chuột vào tùy chọn dùng để tạo khung và đường kẻ cho văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 0
+Đáp án thí sinh: None
+Chương trình nào sau đây là trình duyệt Web? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Opera; Window Explorer
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Lệnh nào sau đây dùng để thay đổi tên tệp tin hoặc thư mục?
+Điểm đạt được: 1
+Đáp án thí sinh: Rename

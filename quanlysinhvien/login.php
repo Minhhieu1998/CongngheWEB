@@ -1,20 +1,44 @@
 <?php
 session_start();
 ?>
+<!DOCTYPE html>
 <html>
-<head>
-	<title>Trang đăng nhập</title>
-	<meta charset="utf-8">
-	<link href="login.css" rel="stylesheet" type='text/css' media="all" />
-	<style >
-		body{
-			background-image: url(lib/anh3.jpg);
-			background-size: auto;
-			
-		}
-	</style>
-</head>
-<body>
+<title>TRANG ĐĂNG NHẬP</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/trangchu.css">
+<link rel="stylesheet" href="css/anh.css">
+<link rel="stylesheet" href="css/menu.css">
+<link rel="stylesheet" href="css/footer.css">
+<div id="container">
+   <div id="header"></div>
+   <div id="body"></div>
+   <div id="footer"></div>
+</div>
+
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+</style>
+<body class="w3-light-grey">
+    <div id="menu">
+  <ul>
+    <div class="logo">
+
+    <a href="trangchu.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif" border="0" alt=" photo 28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif"></a>
+    </div>
+
+    <li><a href="trangchu.html">Trang chủ</a></li>
+  
+
+    </li>
+    <li><a href="#lienhect">Liên hệ</a>
+
+    </li>
+    <li><a href="#">Hỏi đáp</a></li>
+    <li><a href="dangnhap.html">Đăng nhập</a></li>
+  </ul>
+
+</div><body>
 	
 <?php
 	
@@ -30,6 +54,7 @@ session_start();
 		$username = addslashes($username);
 		$password = strip_tags($password);
 		$password = addslashes($password);
+			
 		if ($username == "" || $password =="") {
 			echo "username hoặc password bạn không được để trống!";
 		}else{
@@ -44,16 +69,18 @@ session_start();
 				$_SESSION['username'] = $username;
                 // Thực thi hành động sau khi lưu thông tin vào session
                 
-                header('Location: index.php');
+                
+                header('Location: header.php');
 			}
 		}
+	
 	}
 ?>
 	<form method="POST" action="login.php">
 
-		<h1>RÁO SƯ ĐĂNG NHẬP THÔI</h1>
+		<h1>GIÁO SƯ ĐĂNG NHẬP THÔI</h1>
 	<fieldset>
-	    <legend>[ĐĂNG NHẬP]</legend>
+	    <legend>ĐĂNG NHẬP</legend>
 	    	<table>
 	    		<tr>
 	    			<td>Username</td>
@@ -69,20 +96,28 @@ session_start();
 
 	    		
 	    	</table>
-	    	 <div>
+	    		 <div>
 	    			Bạn chưa có tài khoản?
 	    			<a href="register.php" target="_blank"><input type="button" value="Đăng ký" class="button"  ></a>
-	</div>
+	            </div>
+
+	   
   </fieldset>
  
 	    	  
   </form>
-
+   
 
 </body>
-<footer>
-  <p>Posted by: Hieu</p>
-  <p>Contact information: <a href="mailto:ntminhhieu98@gmail.com">ntminhhieu98@gmail.com</a>.</p>
+  <!-- Footer -->
+<footer class="w3-padding-32 w3-black w3-center w3-margin-top">
+  <h5>Find Us On</h5>
+  <div class="w3-xlarge w3-padding-16">
+    <i class="fa fa-facebook-official w3-hover-opacity" ></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+
+  </div>
+  <p>Powered by <a href="https://plus.google.com/u/0/106974998444610829545" target="_blank" class="w3-hover-text-green">ntminhhieu98@gmail.com</a></p>
 </footer>
 
 

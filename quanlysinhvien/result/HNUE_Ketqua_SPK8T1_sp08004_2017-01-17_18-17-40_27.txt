@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Đỗ Thu, Hằng
+Điểm của thí sinh: 27
+Làm thế nào để gửi 30 tệp đề thi cho giáo vụ qua email trong một lần gửi thư?
+Điểm đạt được: 1
+Đáp án thí sinh: Nén 30 tệp đề thi thành một tệp rồi gửi
+Lệnh nào sau đây dùng để thay đổi tên tệp tin hoặc thư mục?
+Điểm đạt được: 1
+Đáp án thí sinh: Rename
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đặc điểm của khán giả; Thời điểm và địa điểm diễn ra thuyết trình; Sử dụng phương tiện hỗ trợ: máy tính sách tay hay thiết bị khác
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Hãy sắp xếp tên loại giấy phép bản quyền phần mềm với định nghĩa tương ứng của nó:
+Điểm đạt được: 0
+Đáp án thí sinh: Giấy phép đơn (Single seat license) - Giấy phép để cài đặt và sử dụng phần mềm đó chỉ trên một máy tính; Giấy phép khối lượng sử dụng (Volumn license) - Cho người mua sử dụng phần mềm trên một mạng tại một địa điểm duy nhất với một số lượng người dùng không giấy hạn.; Giấy phép trung tâm (Site license) - Giấy phép cho phép cài đặt chương trình từ xa vào các máy tính cá nhân trong mạng nội bộ và nhập mã khóa để kích hoạt chương trình.; Phần mềm như một dịch vụ (SaaS) - Cho phép truy cập và sử dụng phần mềm của nhà cung cấp dịch vụ ứng dụng từ hệ thống của người dùng thông qua mạng nội bộ công ty hoặc Internet.
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+World Wide Web là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 1
+Đáp án thí sinh: Notes Page
+Tổ hợp phím nào sau đây được sử dụng để đóng cửa sổ?
+Điểm đạt được: 1
+Đáp án thí sinh: Alt + Spacebar + C
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Phát biểu nào sau đây không đúng với dịch vụ tin nhắn tức thời?
+Điểm đạt được: 1
+Đáp án thí sinh: Không sử dụng được trên máy tính.
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Hãy chỉ ra ba thông tin cấu hình hệ thống quan trọng nhất cần được kiểm tra trước khi cài đặt một chương trình ứng dụng vào máy? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Phiên bản hệ điều hành; Dung lượng bộ nhớ RAM; Tốc độ vi xử lý
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một tập hợp dữ liệu được sử dụng trong biểu đồ
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nháy chuột vào đối tượng hộp lựa chọn (radio button) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: AB
+Để nén và giải nén tệp/thư mục, trên hệ điều hành Windows cần cài phần mềm gì? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm Winrar; Phần mềm Winzip
+Hãy cho biết các cách thức đặt tay sử dụng con chuột nào sau đây là đúng cách? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: BC
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Trong Outlook, tính năng Signature cho phép làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chèn thêm chữ ký vào cuối tất cả các thư mới, thư trả lời và thư chuyển tiếp
+Việc nén tệp tin, thư mục có ý nghĩa gì?(Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+Sắp xếp các khái niệm sau tăng dần theo quan hệ bao hàm.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Ký tự (Character); 2. Từ (Word); 3. Dòng (Line); 4. Đoạn (Paragraph); 5. Trang (Page)
+Bạn hãy cho biết tên của một loại bộ nhớ chính có các đặc điểm sau đây: dữ liệu trong nó được tồn tại chỉ khi nào máy tính còn bật nguồn, khi máy tính tắt nguồn dữ liệu trong nó cũng mất đi, dung lượng của nó ảnh hưởng rất lớn tới tôc độ và hiệu năng của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: RAM

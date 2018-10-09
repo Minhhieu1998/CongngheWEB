@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Lê Đức, Tiếp
+Điểm của thí sinh: 23
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Những đặc điểm nào sau đây thường được coi là nhược điểm của thương mại điện tử? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Khách hàng có thể mua phải những sản phẩm không mong đợi
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Tiến trình bật máy tính và nạp hệ điều hành
+Hãy kéo thả cụm từ còn thiếu vào chỗ trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Hộp nhập văn bản một dòng(textbox)
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để điều chỉnh âm lượng hệ thống bạn sẽ nhấy chuột vào vị trí nào sau đây trên vùng thông báo (Notification area)
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Đâu là một ví dụ về phần mềm máy tính?(Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ điều hành; Hệ soạn thảo
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 1
+Đáp án thí sinh: Notes Page
+Tổ hợp phím nào sau đây được sử dụng để mở tối đa cửa sổ?
+Điểm đạt được: 0
+Đáp án thí sinh: Alt + Spacebar + C
+Hãy ghép các lệnh với các diễn giải chức năng tương ứng?
+Điểm đạt được: 1
+Đáp án thí sinh: Hide Slide - Ẩn slide hiện tại trong bài trình chiếu; Record Slide Show - Ghi lại bài thuyết trình; Rehearse Timings - Xác định thời gian trình chiếu cho từng slide một cách chính xác; Custom Slide Show - Trình chiếu một số slide được lựa chọn
+Để hủy một lựa chọn khi thao tác trên Windows, hoặc tạo ra một mã đặc biệt cho chương trình ứng dụng, người ta thường cài đặt tính năng này trên phím nào của bàn phím?
+Điểm đạt được: 0
+Đáp án thí sinh: 
+Cách nào cho phép bạn tạo một trang chiếu mới có bố cục Two Content?
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, nháy chuột vào mũi tên bên dưới nút lệnh New Slide, chọn bố cục Two Content
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Thương mại điện tử (E-commerce) nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Mua và bán hàng hóa hay dịch vụ trực tuyến thông qua mạng Internet
+Excel cung cấp những công cụ kiểm tra nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Spelling, Grammar, Thesaurus
+Làm thế nào để gửi 30 tệp đề thi cho giáo vụ qua email trong một lần gửi thư?
+Điểm đạt được: 1
+Đáp án thí sinh: Nén 30 tệp đề thi thành một tệp rồi gửi
+Trong Outlook, tính năng Signature cho phép làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chèn thêm chữ ký vào cuối tất cả các thư mới, thư trả lời và thư chuyển tiếp
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn trang muốn đánh dấu; 2. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 3. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 4. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 5. Nhấn nút Done để hoàn thành
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Lưu và phân phát (publish) nội dung bài thuyết trình; 4. Thực hiện việc thuyết trình bằng một công cụ trình chiếu
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Những bàn phím nào sau đây được thiết kế theo nguyên tắc công thái học ? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: 
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nháy chuột vào tùy chọn dùng để đánh số thứ tự tự động trong văn bản?
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12
+Một giá trị số có thể được coi là giá trị văn bản nếu có ký hiệu gì đứng trước?
+Điểm đạt được: 1
+Đáp án thí sinh: Dấu '
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: phải

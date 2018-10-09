@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thanh, Thủy
+Điểm của thí sinh: 28
+Hãy hoàn thành phát biểu sau bằng cách kéo thả đáp án vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đặc điểm của khán giả; Thời điểm và địa điểm diễn ra thuyết trình; Độ dài của bài thuyết trình
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Hãy ghép nối các đối tượng với tên tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản một dòng (textbox);  - Nút lệnh (button);  - Hộp lựa chọn (radio button);  - Danh sách menu thả xuống (dropdown menu)
+Tin nhắn văn bản là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Là dịch vụ tin nhắn ngắn bị giới hạn số lượng ký tự, được gửi qua mạng di động
+Để khóa thanh tác vụ bạn cần di chuyển con trỏ chuột tới vị trí thanh tác vụ và nháy chuột phải và chọn mục chọn nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Lock the taskbar
+Hãy kéo thả đáp án vào chỗ trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: đánh dấu trang yêu thích
+Đánh dấu vào nút lệnh để xóa bảng khỏi văn bản.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 1
+Đáp án thí sinh: Vị trí 1 - Vùng chương trình được đánh dấu; Vị trí 2 - Các chương trình sử dụng gần đây; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Sắp xếp các bước để thực hiện di chuyển một tệp tin/thư mục.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Move To Folder; 4. Trong hộp thoại Move Items, chọn thư mục đích và nháy chuột vào nút lệnh Move
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Để thiết lập chế độ Use Presenter View, bạn cần phải có:
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn cần phải có màn hình thứ hai, hoặc máy chiếu kết nối với máy tính của bạn
+Để tùy chọn màu sắc cụ thể cho đường viền cửa sổ, trình đơn Start hoặc thanh tác vụ, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Thế nào là một ô tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Giao của một cột và một hàng.
+Thương mại điện tử (E-commerce) nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Mua và bán hàng hóa hay dịch vụ trực tuyến thông qua mạng Internet
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Nếu chỉ nhớ một từ (vd: tra) trong tên văn bản Word cần tìm, để giới hạn phạm vi trong ô tìm kiếm ta nhập:
+Điểm đạt được: 0
+Đáp án thí sinh: *.docx tra
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Không có phông chữ tương ứng trong bộ phông của hệ thống; Bảng mã và phông chữ không tương thích khi soạn thảo
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Các phát biểu nào sau đây là đúng? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Các máy tính vận hành phiên bản Windows 64-bit có thể chạy các phiên bản phần mềm 32 – bit hoặc 64 -bit; Các máy tính vận hành phiên bản Windows 32-bit có thể chạy các phiên bản phần mềm 32 –bit hoặc 64 –bit
+Bạn cần nhập và thống kê thông tin tình trạng nhập xuất hàng hóa cho cửa hàng bán quần áo của mình, phần mềm nào sau đây sẽ hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Excel
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Hãy ghép nối phần đuôi tên miền và nhóm tên miền tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: .edu - Các trang Web giáo dục; .com - Các công ty, doanh nghiệp; .org - Các tổ chức phi chính phủ, phi lợi nhuận; .gov - Các trang Web thuộc chính phủ
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Lệnh nào sau đây dùng để thay đổi tên tệp tin hoặc thư mục?
+Điểm đạt được: 1
+Đáp án thí sinh: Rename
+Làm thế nào để gửi 30 tệp đề thi cho giáo vụ qua email trong một lần gửi thư?
+Điểm đạt được: 1
+Đáp án thí sinh: Nén 30 tệp đề thi thành một tệp rồi gửi
+Hãy nháy chuột vào tùy chọn dùng để đánh số thứ tự tự động trong văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn trang muốn đánh dấu; 2. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 3. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 4. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 5. Nhấn nút Done để hoàn thành

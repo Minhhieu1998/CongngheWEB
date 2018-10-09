@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị, Thơ
+Điểm của thí sinh: 19
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 0
+Đáp án thí sinh: Slide Sorter
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Trong hầu hết các máy tính cá nhân, CPU, các bộ nhớ và các thành phần khác được cắm trên cùng một bảng mạch duy nhất. Bảng mạch đó được gọi là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bo mạch chủ
+Để tạo tầm nhìn thoải mái tránh mỏi mắt khi làm việc với máy tính, theo nguyên tắc công thái học khoảng cách từ màn hình tới mắt nên là bao nhiều?
+Điểm đạt được: 1
+Đáp án thí sinh: 50-70cm
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy kéo thả cụm từ cho sẵn vào ô trống để hoàn thành phát biểu sau:
+Điểm đạt được: 0
+Đáp án thí sinh: Thư điện tử
+Hãy chỉ ra ba thông tin cấu hình hệ thống quan trọng nhất cần được kiểm tra trước khi cài đặt một chương trình ứng dụng vào máy? (Chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Dung lượng bộ nhớ RAM; Tốc độ vi xử lý; Tốc độ đọc ghi của đĩa cứng
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 0
+Đáp án thí sinh: Chính phủ điện tử là chính phủ sử dụng các website để thông báo các chính sách, pháp luật đến với nhân dân
+Hãy chỉ ra tên các phần mềm diệt virus trong các lựa chọn sau? (Chọn 4)
+Điểm đạt được: 0
+Đáp án thí sinh: Bidefender; Kaspersky; Bkav Pro; Ccleaner
+Để thiết lập chế độ Use Presenter View, bạn cần phải có:
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn cần phải có màn hình thứ hai, hoặc máy chiếu kết nối với máy tính của bạn
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 0
+Đáp án thí sinh: HOUR - Trả về ngày giờ hiện tại của hệ thống; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về giờ của một giá trị thời gian; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Tên miền có đuôi .gov thuộc nhóm tên miền nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Các trang Web thương mại
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Đâu là một ví dụ về phần mềm máy tính?(Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ điều hành; Hệ soạn thảo
+Những thiết bị nào sau đây là thiết bị xuất thông tin ra của máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình; Màn hình cảm ứng; Máy in; Loa
+Hãy ghép nối các biểu tượng với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Đi đến trang tiếp theo;  - Quay trở lại trang Web trước đó;  - Tải lại trang Web đang xem
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 0
+Đáp án thí sinh: A
+Hãy nháy chọn nút lệnh cho phép bạn quan sát tất cả các slides?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Ghép các tên nhóm lệnh trong thẻ Table/Layout tương ứng với tác dụng của chúng
+Điểm đạt được: 0
+Đáp án thí sinh: Rows & Columns - Căn lề cho dữ liệu trong bảng theo chiều ngang và chiều dọc; Merge - Hòa nhập và tách các ô; Cell Size - Điều chỉnh độ rộng của cột, chiều cao của dòng; Alignment - Chèn một dòng hoặc một cột đơn vào bảng
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Bạn hãy cho biết tên của một loại bộ nhớ chính có các đặc điểm sau đây: dữ liệu trong nó được tồn tại chỉ khi nào máy tính còn bật nguồn, khi máy tính tắt nguồn dữ liệu trong nó cũng mất đi, dung lượng của nó ảnh hưởng rất lớn tới tôc độ và hiệu năng của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: RAM
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Hãy nối hình ảnh biểu tượng và tên loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Biểu tượng ổ đĩa chứa chương trình hệ điều hành Windows;  - Biểu tượng ổ đĩa chứa dữ liệu;  - Biểu tượng thùng rác;  - Biểu tượng thư mục
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 0
+Đáp án thí sinh: Là trang Web được ghé thăm nhiều nhất
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Nhóm các biểu đồ có thể sử dụng cho các loại dữ liệu khác nhau được đưa vào biểu đồ
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: phải

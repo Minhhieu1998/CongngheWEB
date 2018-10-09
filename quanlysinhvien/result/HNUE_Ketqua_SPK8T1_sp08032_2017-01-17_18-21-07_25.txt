@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Bế Ngọc, Thủy
+Điểm của thí sinh: 25
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Tiến trình bật máy tính và nạp hệ điều hành
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Những bàn phím nào sau đây được thiết kế theo nguyên tắc công thái học ? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 0
+Đáp án thí sinh: Android; Linux; Macintosh OS X
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: In line with text
+WWW là viết tắt của cụm từ nào?
+Điểm đạt được: 1
+Đáp án thí sinh: World Wide Web
+Bạn đang cân nhắc lựa chọn loại ghế ngồi cho nhân viên trong công ty làm việc với máy tính, bạn nên chọn loại ghế ngồi nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Hãy nháy chọn nút lệnh cho phép bạn quan sát tất cả các slides?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Tên miền có đuôi .gov thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web thuộc chính phủ
+Bạn đang cần trình bày một bài phát biểu quảng quá hình ảnh công ty của bạn trong một buổi hội thảo. Phần mềm nào sau đây có thể hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft PowerPoint
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Không có phông chữ tương ứng trong bộ phông của hệ thống; Bảng mã và phông chữ không tương thích khi soạn thảo
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nối các hình ảnh mô tả với các ý nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Nút lệnh dùng để thiết lập các định dạng chung cho toàn bộ bài trình chiếu;  - Nút lệnh dùng để thiết lập các định dạng về in ấn bản phát tay không có ghi chú;  - Nút lệnh dùng để thiết lập các định dạng về in ấn bản phát tay có ghi chú
+Để điều chỉnh âm lượng hệ thống bạn sẽ nhấy chuột vào vị trí nào sau đây trên vùng thông báo (Notification area)
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy sắp xếp các loại cổng (port) với các loại nguồn hoặc thiết bị kết nối phù hợp:
+Điểm đạt được: 0
+Đáp án thí sinh: Power connector - Cung cấp điện năng; VGA port - Mạng dây; RJ – 45 Jack - Tai nghe, micro, loa; USB port - 127 loại thiết bị khác nhau; Audio port - Màn hình mở rộng ví dụ máy chiếu
+Biểu tượng hình sao  trên trình duyệt Web dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Thêm các trang yêu thích
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Thế nào là một ô tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Giao của một cột và một hàng.
+Để xoá các thư mục/tệp tin trong Recycle Bin ta thực hiện bằng cách nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nháy phải chuột vào Recycle Bin/Empty Recycle Bin/Yes
+Khổ giấy mặc định được thiết lập ở đâu trong hệ thống của bạn?
+Điểm đạt được: 0
+Đáp án thí sinh: Thẻ Page Layout
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đặc điểm của khán giả; Thời điểm và địa điểm diễn ra thuyết trình; Sử dụng phương tiện hỗ trợ: máy tính sách tay hay thiết bị khác
+Hãy nháy chuột vào đối tượng hộp lựa chọn (radio button) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Tổ hợp phím nào sau đây được sử dụng để phục hồi cửa sổ về kích cỡ trước đó?
+Điểm đạt được: 1
+Đáp án thí sinh: Alt + Spacebar + R
+Thư điện tử (Email) là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một bức thư được chuyển và nhận qua mạng máy tính
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Tùy chọn nào cho phép gửi bảng tính Excel qua email như là một tệp tin đính kèm?
+Điểm đạt được: 1
+Đáp án thí sinh: Send as Attachment
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để chọn cả dòng văn bản, bạn có thể sử dụng các phương pháp nào? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấp chuột  vào đầu dòng và kéo qua dòng văn bản; Nháy chuột vào lề trái dòng văn bản

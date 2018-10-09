@@ -1,0 +1,43 @@
+
+#menu ul {
+  background: red;
+  list-style-type: none;
+  text-align: center;
+}
+#menu li {
+  color:pink ;
+  display: inline-block;
+  width: 220px;
+  height: 80px;
+  line-height: 80px;
+  margin-left: -5px;
+}
+#menu a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+
+}
+#menu a:hover {
+  background: #F1F1F1;
+  color: #333;
+
+}
+/*==Dropdown Menu==*/
+.sub-menu li {
+  display: none;
+}
+#menu li {
+ position: relative;
+}
+.sub-menu {
+ display: none;
+ position: absolute;
+
+}
+#menu li:hover .sub-menu {
+ display: block;
+}
+.sub-menu li {
+ margin-left: 0 !important;
+}

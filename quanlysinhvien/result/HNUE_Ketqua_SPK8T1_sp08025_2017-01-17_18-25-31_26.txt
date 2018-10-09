@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Thạch Thị Thu, Thảo
+Điểm của thí sinh: 26
+Hãy sắp xếp thứ tự các bước cần thực hiện để thiết lập trang chủ.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Trong danh mục các tùy chọn điều khiển và chỉnh sửa của Google Chrome chọn thẻ Setting; 2. Nháy chuột chọn Change để mở hộp thoại Home page; 3. Trong hộp thoại Home page, chọn Open this page và nhập địa chỉ trang muốn thiết lập làm trang chủ; 4. Trong nhóm Appearance chọn Show Home button để hiện thị nút home; 5. Nhấn nút OK để chấp nhận thiết lập
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Hãy kéo thả đáp án vào chỗ trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: đánh dấu trang yêu thích
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 0
+Đáp án thí sinh: Loop more
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Các phát biểu nào sau đây là đúng? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Các máy tính vận hành phiên bản Windows 32 –bit chỉ có thể chạy được các phiên bản phần mềm 32-bit mà không chạy được các phiên bản phần mềm 64-bit; Các máy tính vận hành phiên bản Windows 64 –bit chỉ có thể chạy được các phiên bản phần mềm 64-bit mà không chạy được các phiên bản phần mềm 32-bit
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 1
+Đáp án thí sinh:  - Slide Show From Beginning;  - Slide Show From Current Slide;  - Broadcard Slide Show;  - Custom Slide Show
+Trong hầu hết các máy tính cá nhân, CPU, các bộ nhớ và các thành phần khác được cắm trên cùng một bảng mạch duy nhất. Bảng mạch đó được gọi là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bo mạch chủ
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Khi tìm kiếm tệp tin/thư mục thì ký tự "?" dùng để?
+Điểm đạt được: 1
+Đáp án thí sinh: Đại diện cho 1 ký tự
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 1
+Đáp án thí sinh: Vị trí 1 - Vùng chương trình được đánh dấu; Vị trí 2 - Các chương trình sử dụng gần đây; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Tệp/thư mục sau khi được nén có dung lượng thế nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhỏ hơn trước khi nén
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Behind text
+Tùy chọn nào cho phép gửi bảng tính Excel qua email như là một tệp tin đính kèm?
+Điểm đạt được: 1
+Đáp án thí sinh: Send as Attachment
+Bạn đang cân nhắc lựa chọn loại ghế ngồi cho nhân viên trong công ty làm việc với máy tính, bạn nên chọn loại ghế ngồi nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Phát biểu nào sau đây không phải là đặc điểm phù hợp của hình thức làm việc từ xa (Teleworking)?  (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Làm việc từ xa giúp phát triển kỹ năng giao tiếp và kỹ năng con người tốt hơn so hình thức làm việc truyền thống; Xét về khía cạnh nhà quản lý, hình thức tổ chức cho nhân viên làm việc từ xa đem lại hiệu quả cao hơn về vấn đề bảo mật thông tin, an toàn dữ liệu so với hình thức tổ chức làm việc tập trung truyền thống
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào biểu tượng cho
+phép mở trang chủ của trình duyệt Web
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để hủy một lựa chọn khi thao tác trên Windows, hoặc tạo ra một mã đặc biệt cho chương trình ứng dụng, người ta thường cài đặt tính năng này trên phím nào của bàn phím?
+Điểm đạt được: 1
+Đáp án thí sinh: Esc
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Tin nhắn văn bản là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Là dịch vụ tin nhắn ngắn bị giới hạn số lượng ký tự, được gửi qua mạng di động
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Trong Windows muốn xóa dữ liệu và không cho phục hồi ta cần làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chọn đối tượng cần xóa, nhấn tổ hợp phím Shift+Delete
+Hãy sắp xếp các bước theo thứ tự đúng để khởi động máy tính ở chế độ an toàn (Safe Mode):
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Dùng tổ hợp phím Windows + R để mở hộp thoại Run; 2. Gõ msconfig và nhấn Enter để mở cửa sổ System Configuration; 3. Chọn tab Boot và tích chọn tùy chọn Safe boot trong vùng Boot options; 4. Nhấn chọn nút OK trên cửa sổ để hoàn tất quá trình thiết đặt chế độ khởi động máy; 5. Khởi động lại máy tính để vào chế độ Safe Mode
+Nháy chọn nút lệnh cho phép lưu bảng tính trên các ổ đĩa trên mạng:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Tên miền có đuôi .gov thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web thuộc chính phủ

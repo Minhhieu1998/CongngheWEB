@@ -8,9 +8,17 @@ if (!isset($_SESSION['username'])) {
 ?>
 <html>
 <head>
-	<title>trang chủ</title>
+	<title>WELCOME</title>
 	<meta charset="utf-8">
-</head>
+    <link href="login.css" rel="stylesheet" type='text/css' media="all" /></head>
+      <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <style >
+		body{
+			background-image: url(lib/anh3.jpg);
+			background-size: auto;
+			
+		}
+	</style>
 <body>
 	Chúc mừng bạn có username là <?php echo $_SESSION['username'];  ?> đã đăng nhập thành công ! 
 

@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Tuấn, Thành
+Điểm của thí sinh: 24
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nối tên trang web với thể loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/ - Mạng xã hội; http://vnexpress.net/ - Báo điện tử; http://www.chuyensp.edu.vn/ - Trang tin điện tử nội bộ; https://www.barackobama.com/ - Trang tin điện tử cá nhân
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó
+Phần mềm nén tệp sử dụng để làm gì?:
+Điểm đạt được: 1
+Đáp án thí sinh: Giảm dung lượng tệp tin
+Khổ giấy mặc định được thiết lập ở đâu trong hệ thống của bạn?
+Điểm đạt được: 0
+Đáp án thí sinh: Thẻ Page Layout
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Lưu và phân phát (publish) nội dung bài thuyết trình; 4. Thực hiện việc thuyết trình bằng một công cụ trình chiếu
+Hãy nháy chuột vào tùy chọn dùng để đánh số thứ tự tự động trong văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 0
+Đáp án thí sinh: Nháy đúp chuột vào ô
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy hoàn thành phát biểu sau bằng cách kéo thả đáp án vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Hãy ghép nối phần đuôi tên miền và nhóm tên miền tương ứng:
+Điểm đạt được: 0
+Đáp án thí sinh: .edu - Các trang Web giáo dục; .com - Các công ty, doanh nghiệp; .org - Các trang Web thuộc chính phủ; .gov - Các tổ chức phi chính phủ, phi lợi nhuận
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Insert, trong nhóm Illustrations, nháy vào nút lệnh SmartArt; Nháy chuột vào biểu tượng Insert SmartArt Graphic trong bố cục Title and Content
+Hai việc nào sau đây bạn có thể làm để đảm bảo cho máy tính của bạn được an toàn?
+Điểm đạt được: 1
+Đáp án thí sinh: Lập kế hoạch bảo trì các ổ đĩa thường xuyên; Cập nhật và sử dụng các bản vá lỗi chương trình ứng dụng cũng như hệ điều hành khi được yêu cầu
+Tệp/thư mục sau khi được nén có dung lượng thế nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhỏ hơn trước khi nén
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 0
+Đáp án thí sinh: Vị trí 1 - Các chương trình sử dụng gần đây; Vị trí 2 - Vùng chương trình được đánh dấu; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Tin nhắn văn bản là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Một thư điện tử chỉ chứa nội dung dạng văn bản
+Mạng máy tính là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một nhóm gồm hai hoặc nhiều máy tính được kết nối với nhau theo cách để chúng có thể giao tiếp, chia sẻ tài nguyên và trao đổi dữ liệu với nhau
+Bạn đang cân nhắc lựa chọn loại ghế ngồi cho nhân viên trong công ty làm việc với máy tính, bạn nên chọn loại ghế ngồi nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Hãy ghép nối tên loại sao lưu dữ liệu và đặc điểm của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Sao lưu bên ngoài - Bản sao dữ liệu được lưu vào ổ cứng gắn ngoài hoặc phương tiện quang học có kích cỡ đủ để lưu trữ dữ liệu; Sao lưu trực tuyến - Dữ liệu được lưu trữ vào một vị trí từ xa trên mạng hoặc má chủ; Sao lưu đám mây - Dữ liệu được lưu trữ vào một vị trí của đám may ví dụ như Microsoft SkyDrive
+Hãy nháy chuột vào đối tượng danh sách kéo xuống (dropdown-menu) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 0
+Đáp án thí sinh: F9
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ

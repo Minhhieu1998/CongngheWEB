@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Quang Thu, Trang
+Điểm của thí sinh: 20
+Thương mại điện tử (E-commerce) nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Mua và bán hàng hóa hay dịch vụ trực tuyến thông qua mạng Internet
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một tập hợp dữ liệu được sử dụng trong biểu đồ
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Sắp xếp các bước để thực hiện di chuyển một tệp tin/thư mục.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 2. Chọn tệp tin/thư mục; 3. Nháy chuột vào lệnh Move To Folder; 4. Trong hộp thoại Move Items, chọn thư mục đích và nháy chuột vào nút lệnh Move
+Để hiển thị trình đơn tắt (Shortcut menu) của một mục chọn bạn trỏ con trỏ chuột vào mục chọn đó và nhấn vào phím nào trong các phím sau đây trên bàn phím:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 0
+Đáp án thí sinh: Slide Sorter
+Hãy nối tên phím với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: PrntScr - Chụp lại thông tin trên màn hình và gửi tới Windows Clipboard; Từ F1 đến F12 - Các phím chức năng, thường được cài đặt làm phím tắt các lệnh thường dùng trong các chương trình ứng dụng; Windows - Hiển thị trình đơn Start; Caps Lock - Dùng để bật trạng thái viết ký tự chữ in hoa
+Hãy nháy chuột vào tùy chọn dùng để đánh số thứ tự tự động trong văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Có thể hồi phục (restore) các tệp tin bị xoá sau khi nhấn phím Delete bằng cách nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Mở Recycle Bin/Nháy chuột phải vào tệp/Cut
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 2. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 3. Chọn trang muốn đánh dấu; 4. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 5. Nhấn nút Done để hoàn thành
+Bạn hãy cho biết tên của một loại bộ nhớ chính có các đặc điểm sau đây: dữ liệu trong nó được tồn tại chỉ khi nào máy tính còn bật nguồn, khi máy tính tắt nguồn dữ liệu trong nó cũng mất đi, dung lượng của nó ảnh hưởng rất lớn tới tôc độ và hiệu năng của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: RAM
+Hãy kéo thả cụm từ cho sẵn vào ô trống để hoàn thành phát biểu sau:
+Điểm đạt được: 0
+Đáp án thí sinh: Gọi thoại
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Hãy ghép nối các thuật ngữ theo định nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh: URL - Địa chỉ của một tài nguyên trên Internet, có cấu trúc phân cấp.; Trình duyệt - Là phần mềm dùng để hiển thị trang Web tương ứng trên địa chỉ Web; Máy tìm kiếm - Là công cụ giúp người dùng tìm kiếm các thông tin công cộng trên toàn bộ Internet; Upload - Là quá trình truyền tải dữ liệu từ máy tính lên mạng Internet.
+Hãy nháy chọn nút lệnh cho phép bạn quan sát tất cả các slides?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Tên miền có đuôi .gov thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web thuộc chính phủ
+Hãy sắp xếp thứ tự các bước cần thực hiện để thiết lập trang chủ.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Trong danh mục các tùy chọn điều khiển và chỉnh sửa của Google Chrome chọn thẻ Setting; 2. Nháy chuột chọn Change để mở hộp thoại Home page; 3. Trong nhóm Appearance chọn Show Home button để hiện thị nút home; 4. Trong hộp thoại Home page, chọn Open this page và nhập địa chỉ trang muốn thiết lập làm trang chủ; 5. Nhấn nút OK để chấp nhận thiết lập
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 1
+Đáp án thí sinh:  - Slide Show From Beginning;  - Slide Show From Current Slide;  - Broadcard Slide Show;  - Custom Slide Show
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 0
+Đáp án thí sinh: A
+Hãy kéo thả đáp án vào chỗ trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: đánh dấu trang yêu thích
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Để áp dụng chế độ bảo vệ màn hình, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để hủy một lựa chọn khi thao tác trên Windows, hoặc tạo ra một mã đặc biệt cho chương trình ứng dụng, người ta thường cài đặt tính năng này trên phím nào của bàn phím?
+Điểm đạt được: 1
+Đáp án thí sinh: ESC
+Hãy lựa chọn tên các trình duyệt web trong danh sách các phần mềm sau đây? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Google Chrome; Mozilla Firefox; Cốc Cốc
+Hãy sắp xếp các loại cổng (port) với các loại nguồn hoặc thiết bị kết nối phù hợp:
+Điểm đạt được: 0
+Đáp án thí sinh: Power connector - Cung cấp điện năng; VGA port - Màn hình mở rộng ví dụ máy chiếu; RJ – 45 Jack - Tai nghe, micro, loa; USB port - 127 loại thiết bị khác nhau; Audio port - Mạng dây

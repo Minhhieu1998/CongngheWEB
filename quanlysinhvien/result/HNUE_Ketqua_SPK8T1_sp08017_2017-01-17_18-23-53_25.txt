@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Trần Thị Minh, Phương
+Điểm của thí sinh: 25
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Là trang được hiển thị mặc định khi truy cập vào Website trên trình duyệt
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó
+Hãy hoàn thành phát biểu sau bằng cách kéo thả cụm từ cho trước vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web dùng để hiển thị các trang Web trên Internet
+Có thể hồi phục (restore) các tệp tin bị xoá sau khi nhấn phím Delete bằng cách nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Mở Recycle Bin/Nháy chuột phải vào tệp/Restore
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+Hãy sắp xếp thứ tự các bước cần thực hiện để thiết lập trang chủ.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Trong danh mục các tùy chọn điều khiển và chỉnh sửa của Google Chrome chọn thẻ Setting; 2. Trong nhóm Appearance chọn Show Home button để hiện thị nút home; 3. Nháy chuột chọn Change để mở hộp thoại Home page; 4. Trong hộp thoại Home page, chọn Open this page và nhập địa chỉ trang muốn thiết lập làm trang chủ; 5. Nhấn nút OK để chấp nhận thiết lập
+Hãy nháy chọn nút lệnh cho phép bạn quan sát tất cả các slides?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Insert, trong nhóm Illustrations, nháy vào nút lệnh SmartArt; Nháy chuột vào biểu tượng Insert SmartArt Graphic trong bố cục Title and Content
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: AB
+Hãy ghép nối các thuật ngữ theo định nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh: URL - Địa chỉ của một tài nguyên trên Internet, có cấu trúc phân cấp.; Trình duyệt - Là phần mềm dùng để hiển thị trang Web tương ứng trên địa chỉ Web; Máy tìm kiếm - Là công cụ giúp người dùng tìm kiếm các thông tin công cộng trên toàn bộ Internet; Upload - Là quá trình truyền tải dữ liệu từ máy tính lên mạng Internet.
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Trên màn hình có những chỗ bị chói nên rất khó nhìn được rõ các chữ ở đó. Để khắc phục sự cố này, người sử dụng máy tính nên áp dụng các biện pháp nào sau đây? (Chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Thay đổi vị trí nguồn sáng gây ra hiện tượng chói; Sử dụng màn hình chống chói; Đặt màn hình ở chế độ có độ sáng yếu
+Để cải thiện thứ hạng trang Web của bạn trên các máy tìm kiếm cần phải làm gì?(chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Có nhiều trang Web liên quan liên kết đến trang Web của bạn.; Sử dụng tất cả các từ khóa có thể có trong tất cả các thành tố trong trang Web của bạn.
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: In line with text
+Những phần mềm nào cần cài đặt để thực hiện các công việc văn phòng như: Gửi nhận thư, soạn thảo văn bản, in, nghe nhạc, đọc báo?
+Điểm đạt được: 0
+Đáp án thí sinh: HĐH Windows, Office, Foxit, Google Chrome, Windows Media Player
+Để điều chỉnh âm lượng hệ thống bạn sẽ nhấy chuột vào vị trí nào sau đây trên vùng thông báo (Notification area)
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Hãy nối tên phím với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: PrntScr - Chụp lại thông tin trên màn hình và gửi tới Windows Clipboard; Từ F1 đến F12 - Các phím chức năng, thường được cài đặt làm phím tắt các lệnh thường dùng trong các chương trình ứng dụng; Windows - Hiển thị trình đơn Start; Caps Lock - Dùng để bật trạng thái viết ký tự chữ in hoa
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đặc điểm của khán giả; Độ dài của bài thuyết trình; Sử dụng phương tiện hỗ trợ: máy tính sách tay hay thiết bị khác
+Những bàn phím nào sau đây được thiết kế theo nguyên tắc công thái học ? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 0
+Đáp án thí sinh: Android; Linux; Internet Explorer; Macintosh OS X
+Để tạo tầm nhìn thoải mái tránh mỏi mắt khi làm việc với máy tính, theo nguyên tắc công thái học khoảng cách từ màn hình tới mắt nên là bao nhiều?
+Điểm đạt được: 1
+Đáp án thí sinh: 50-70cm
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Hãy ghép nối phần đuôi tên miền và nhóm tên miền tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: .edu - Các trang Web giáo dục; .com - Các công ty, doanh nghiệp; .org - Các tổ chức phi chính phủ, phi lợi nhuận; .gov - Các trang Web thuộc chính phủ
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Không có phông chữ tương ứng trong bộ phông của hệ thống; Bảng mã và phông chữ không tương thích khi soạn thảo
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.

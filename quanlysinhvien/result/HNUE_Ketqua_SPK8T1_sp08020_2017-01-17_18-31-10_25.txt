@@ -1,0 +1,95 @@
+Mã đề thi: SPK8T1
+Thí sinh: Đỗ Thị Hà, Tây
+Điểm của thí sinh: 25
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Tiến trình bật máy tính và nạp hệ điều hành
+Tệp/thư mục sau khi được nén có dung lượng thế nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhỏ hơn trước khi nén
+Trên màn hình desktop, khu vực nào chứa tùy chọn cho phép bạn nháy chuột vào chuột để thay đổi ngày giờ hiện tại?
+Điểm đạt được: 1
+Đáp án thí sinh: Vùng thông báo (Task Notification)
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Thế nào là một ô tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Giao của một cột và một hàng.
+Trong hầu hết các máy tính cá nhân, CPU, các bộ nhớ và các thành phần khác được cắm trên cùng một bảng mạch duy nhất. Bảng mạch đó được gọi là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bo mạch chủ
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: In line with text
+Một giá trị số có thể được coi là giá trị văn bản nếu có ký hiệu gì đứng trước?
+Điểm đạt được: 1
+Đáp án thí sinh: Dấu '
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Để tùy chọn màu sắc cụ thể cho đường viền cửa sổ, trình đơn Start hoặc thanh tác vụ, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Là trang được hiển thị mặc định khi truy cập vào Website trên trình duyệt
+Hãy ghép nối các thuật ngữ theo định nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh: URL - Địa chỉ của một tài nguyên trên Internet, có cấu trúc phân cấp.; Trình duyệt - Là phần mềm dùng để hiển thị trang Web tương ứng trên địa chỉ Web; Máy tìm kiếm - Là công cụ giúp người dùng tìm kiếm các thông tin công cộng trên toàn bộ Internet; Upload - Là quá trình truyền tải dữ liệu từ máy tính lên mạng Internet.
+Lựa chọn nào sau đây để thay đổi bố cục một trang chiếu? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, chọn nút lệnh Layout; Nháy chuột phải vào trang chiếu trong thẻ Slides hoặc trong khung Slide và sau đó chọn nút lệnh Layout.
+Cách nào cho phép bạn tạo một trang chiếu mới có bố cục Two Content?
+Điểm đạt được: 0
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, chọn nút lệnh Layout
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào biểu tượng cho
+phép mở trang chủ của trình duyệt Web
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Những bàn phím nào sau đây được thiết kế theo nguyên tắc công thái học ? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: 
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Chương trình nào sau đây là trình duyệt Web? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Safari; Window Explorer
+Hãy ghép nối các đối tượng với tên tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản một dòng (textbox);  - Nút lệnh (button);  - Hộp lựa chọn (radio button);  - Danh sách menu thả xuống (dropdown menu)
+Hãy chỉ ra hai quá trình ngăn chặn các vấn đề an ninh liên quan đến tập tin đính 
+kèm ? (Chọn hai)
+Điểm đạt được: 0
+Đáp án thí sinh: Cập nhật phần mềm chống virus mỗi năm một lần; Lập lịch kiểm tra virus để chạy một lần một ngày
+Tổ hợp phím nào sau đây được sử dụng để thu gọn nhanh cửa sổ về thanh tác vụ?
+Điểm đạt được: 0
+Đáp án thí sinh: Alt + Spacebar + X
+Để tạo tầm nhìn thoải mái tránh mỏi mắt khi làm việc với máy tính, theo nguyên tắc công thái học khoảng cách từ màn hình tới mắt nên là bao nhiều?
+Điểm đạt được: 1
+Đáp án thí sinh: 50-70cm
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Lưu và phân phát (publish) nội dung bài thuyết trình; 4. Thực hiện việc thuyết trình bằng một công cụ trình chiếu
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Ghép hình ảnh và lệnh tương ứng khi chỉnh sửa cấu trúc bảng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Chèn thêm một dòng ngay trên dòng đang được chọn trong bảng;  - Chèn thêm một dòng ngay dưới dòng được chọn  trong bảng;  - Chèn thêm một dòng ngay bên trái dòng đang được chọn  trong bảng;  - Chèm thêm một dòng ngay bên phải dòng đang được chọn  trong bảng
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ

@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị, Loan
+Điểm của thí sinh: 19
+Bạn cần nhập và thống kê thông tin tình trạng nhập xuất hàng hóa cho cửa hàng bán quần áo của mình, phần mềm nào sau đây sẽ hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Excel
+Tin nhắn văn bản là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Là dịch vụ tin nhắn ngắn bị giới hạn số lượng ký tự, được gửi qua mạng di động
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn trang muốn đánh dấu; 2. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 3. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 4. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 5. Nhấn nút Done để hoàn thành
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Trên màn hình desktop, khu vực nào chứa tùy chọn cho phép bạn nháy chuột vào chuột để thay đổi ngày giờ hiện tại?
+Điểm đạt được: 1
+Đáp án thí sinh: Vùng thông báo (Task Notification)
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Bảng mã và phông chữ không tương thích khi soạn thảo
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào biểu tượng cho
+phép mở trang chủ của trình duyệt Web
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Để tùy chọn màu sắc cụ thể cho đường viền cửa sổ, trình đơn Start hoặc thanh tác vụ, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Square
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Giảm bớt độ sáng màn hình
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy nối các hình ảnh mô tả với các ý nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Nút lệnh dùng để thiết lập các định dạng chung cho toàn bộ bài trình chiếu;  - Nút lệnh dùng để thiết lập các định dạng về in ấn bản phát tay không có ghi chú;  - Nút lệnh dùng để thiết lập các định dạng về in ấn bản phát tay có ghi chú
+Hãy nháy chuột vào đối tượng hộp lựa chọn (radio button) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy cho biết các cách thức đặt tay sử dụng con chuột nào sau đây là đúng cách? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: BC
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 0
+Đáp án thí sinh: 1 - Thẻ Slides; 2 - Thanh dải lệnh (Ribbon); 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Lệnh nào sau đây dùng để thay đổi tên tệp tin hoặc thư mục?
+Điểm đạt được: 1
+Đáp án thí sinh: Rename
+Hãy hoàn thành phát biểu sau bằng cách kéo thả đáp án vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web
+Hãy chỉ ra tên các phần mềm diệt virus trong các lựa chọn sau? (Chọn 4)
+Điểm đạt được: 0
+Đáp án thí sinh: Kaspersky; Nero Burning; Bkav Pro; McAee LiveSafe
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Cách nào cho phép bạn tạo một trang chiếu mới có bố cục Two Content?
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, nháy chuột vào mũi tên bên dưới nút lệnh New Slide, chọn bố cục Two Content
+Phát biểu nào đúng về chú thích cuối trang?(Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Số thứ tự đi kèm chú thích được đánh liên tục từ trang đầu đến hết văn bản; Người sử dụng tùy chỉnh được giá trị bắt đầu tính liên tục của số đi kèm chú thích
+Khả năng tương tác tức thời của hệ điều hành WYSIWYG là viết tắt của cụm từ nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: What You See is What You Get
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 0
+Đáp án thí sinh: Nháy đúp chuột vào ô
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Trong Windows muốn xóa dữ liệu và không cho phục hồi ta cần làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chọn đối tượng cần xóa, nhấn tổ hợp phím Shift+Delete

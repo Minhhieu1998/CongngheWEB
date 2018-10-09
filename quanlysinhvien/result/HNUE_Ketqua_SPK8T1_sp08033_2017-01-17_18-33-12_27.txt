@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Phương, Thúy
+Điểm của thí sinh: 27
+Hãy nối tên phím với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: PrntScr - Chụp lại thông tin trên màn hình và gửi tới Windows Clipboard; Từ F1 đến F12 - Các phím chức năng, thường được cài đặt làm phím tắt các lệnh thường dùng trong các chương trình ứng dụng; Windows - Hiển thị trình đơn Start; Caps Lock - Dùng để bật trạng thái viết ký tự chữ in hoa
+Hãy ghép nối các từ khóa với ý nghĩa tương ứng trong tùy chọn in trên trình duyệt Chrome.
+Điểm đạt được: 1
+Đáp án thí sinh: Simplify page - Chế độ in chỉ giữ lại những thông tin chính như: nội dung chữ, các ảnh được lựa chọn hoặc các liên  kết; Header and footers - Thêm ngày in trên đầu trang và địa chỉ nguồn phía dưới trang; Two-sided - Tùy chọn in hai mặt trang giấy; Background graphics - Tùy chọn in có hình nền
+Đánh dấu vào nút lệnh để xóa bảng khỏi văn bản.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Hãy hoàn thành phát biểu sau bằng cách kéo thả cụm từ cho trước vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web dùng để hiển thị các trang Web trên Internet
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 1
+Đáp án thí sinh: Loop continuously until Esc
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Hàm nào sau đây được sử dụng để tìm số lớn nhất trong một dãy số?
+Điểm đạt được: 1
+Đáp án thí sinh: =MAX(B1:B5)
+Hãy sắp xếp các đơn vị đo tốc độ của vi xử lý sau theo thứ tự tăng dần:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Hertz; 2. Kilohertz; 3. Megahertz; 4. Gigahertz
+Khổ giấy mặc định được thiết lập ở đâu trong hệ thống của bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết lập Language and Regional  trong hệ thống
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 0
+Đáp án thí sinh:  - Custom Slide Show;  - Slide Show From Beginning;  - Slide Show From Current Slide;  - Broadcard Slide Show
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ
+Đâu là một ví dụ về phần mềm máy tính?(Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ điều hành; Hệ soạn thảo
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Hãy sắp xếp các bước theo thứ tự đúng để khởi động máy tính ở chế độ an toàn (Safe Mode):
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Dùng tổ hợp phím Windows + R để mở hộp thoại Run; 2. Gõ msconfig và nhấn Enter để mở cửa sổ System Configuration; 3. Chọn tab Boot và tích chọn tùy chọn Safe boot trong vùng Boot options; 4. Nhấn chọn nút OK trên cửa sổ để hoàn tất quá trình thiết đặt chế độ khởi động máy; 5. Khởi động lại máy tính để vào chế độ Safe Mode
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Loại hình truyền thông được thể hiện dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn tức thời
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+Ghép các tên nhóm lệnh trong thẻ Table/Layout tương ứng với tác dụng của chúng
+Điểm đạt được: 1
+Đáp án thí sinh: Rows & Columns - Chèn một dòng hoặc một cột đơn vào bảng; Merge - Hòa nhập và tách các ô; Cell Size - Điều chỉnh độ rộng của cột, chiều cao của dòng; Alignment - Căn lề cho dữ liệu trong bảng theo chiều ngang và chiều dọc
+Tên miền có đuôi .gov thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web thuộc chính phủ
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 1
+Đáp án thí sinh: Vị trí 1 - Vùng chương trình được đánh dấu; Vị trí 2 - Các chương trình sử dụng gần đây; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 0
+Đáp án thí sinh: F9
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Trên màn hình có những chỗ bị chói nên rất khó nhìn được rõ các chữ ở đó. Để khắc phục sự cố này, người sử dụng máy tính nên áp dụng các biện pháp nào sau đây? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi vị trí nguồn sáng gây ra hiện tượng chói; Treo rèm, màn che cửa sổ; Sử dụng màn hình chống chói
+Chương trình nào sau đây cung cấp các dịch vụ theo yêu cầu của các chương trình khác trong quá trình hoạt động của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows

@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Trần Thu, Thủy
+Điểm của thí sinh: 24
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Để tạo tầm nhìn thoải mái tránh mỏi mắt khi làm việc với máy tính, theo nguyên tắc công thái học khoảng cách từ màn hình tới mắt nên là bao nhiều?
+Điểm đạt được: 1
+Đáp án thí sinh: 50-70cm
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Sắp xếp các bước để thực hiện di chuyển một tệp tin/thư mục.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Move To Folder; 4. Trong hộp thoại Move Items, chọn thư mục đích và nháy chuột vào nút lệnh Move
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Thực hiện việc thuyết trình bằng một công cụ trình chiếu; 4. Lưu và phân phát (publish) nội dung bài thuyết trình
+Hãy ghép nối phần đuôi tên miền và nhóm tên miền tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: .edu - Các trang Web giáo dục; .com - Các công ty, doanh nghiệp; .org - Các tổ chức phi chính phủ, phi lợi nhuận; .gov - Các trang Web thuộc chính phủ
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Nhóm các biểu đồ có thể sử dụng cho các loại dữ liệu khác nhau được đưa vào biểu đồ
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: phải
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Insert, trong nhóm Illustrations, nháy vào nút lệnh SmartArt; Trên thanh công cụ truy xuất nhanh, nháy vào nút lệnh SmartArt
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Hãy kéo thả cụm từ cho sẵn vào ô trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn thức thời
+Các phát biểu nào sau đây là đúng? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Các máy tính vận hành phiên bản Windows 64-bit có thể chạy các phiên bản phần mềm 32 – bit hoặc 64 -bit; Các máy tính vận hành phiên bản Windows 32 –bit chỉ có thể chạy được các phiên bản phần mềm 32-bit mà không chạy được các phiên bản phần mềm 64-bit
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+Hãy nối tên phím với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: PrntScr - Chụp lại thông tin trên màn hình và gửi tới Windows Clipboard; Từ F1 đến F12 - Các phím chức năng, thường được cài đặt làm phím tắt các lệnh thường dùng trong các chương trình ứng dụng; Windows - Hiển thị trình đơn Start; Caps Lock - Dùng để bật trạng thái viết ký tự chữ in hoa
+Tùy chọn nào dưới đây là đúng khi xóa cache trình duyệt?
+Điểm đạt được: 1
+Đáp án thí sinh: Xóa các tập tin tạm (Temporary Internet Files) phát sinh từ các trang Web đã được truy cập trước đó.
+Những bàn phím nào sau đây được thiết kế theo nguyên tắc công thái học ? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: 
+Bạn cần nhập và thống kê thông tin tình trạng nhập xuất hàng hóa cho cửa hàng bán quần áo của mình, phần mềm nào sau đây sẽ hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Excel
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 0
+Đáp án thí sinh: Notes
+Ghép hình ảnh và lệnh tương ứng khi chỉnh sửa cấu trúc bảng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Chèn thêm một dòng ngay trên dòng đang được chọn trong bảng;  - Chèn thêm một dòng ngay dưới dòng được chọn  trong bảng;  - Chèn thêm một dòng ngay bên trái dòng đang được chọn  trong bảng;  - Chèm thêm một dòng ngay bên phải dòng đang được chọn  trong bảng
+Hãy ghép nối các biểu tượng với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Đi đến trang tiếp theo;  - Quay trở lại trang Web trước đó;  - Tải lại trang Web đang xem
+Sắp xếp các khái niệm sau tăng dần theo quan hệ bao hàm.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Ký tự (Character); 2. Từ (Word); 3. Dòng (Line); 4. Đoạn (Paragraph); 5. Trang (Page)
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào biểu tượng cho
+phép mở trang chủ của trình duyệt Web
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Có thể hồi phục (restore) các tệp tin bị xoá sau khi nhấn phím Delete bằng cách nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Mở Recycle Bin/Nháy chuột phải vào tệp/Restore
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Khi máy tính của bạn bị xâm nhập hoặc ảnh hưởng bởi virus
+Hãy cho biết vị trí phím Windows trên một phần hình ảnh bàn phím sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng

@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Phạm Thu, Hương
+Điểm của thí sinh: 23
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Để xoá các thư mục/tệp tin trong Recycle Bin ta thực hiện bằng cách nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nháy phải chuột vào Recycle Bin/Empty Recycle Bin/Yes
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Khi máy tính của bạn bị xâm nhập hoặc ảnh hưởng bởi virus
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Giảm bớt độ sáng màn hình
+Phương  thức  nào  là  thời  gian  thực,  dựa  trên  thông  tin  văn  bản  giữa  hai  hoặc  nhiều người tham gia sử dụng Internet.
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn tức thời
+Lựa chọn nào sau đây để thay đổi bố cục một trang chiếu? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Nháy chuột phải vào trang chiếu trong thẻ Slides hoặc trong khung Slide và sau đó chọn nút lệnh Layout.; Trên thẻ View, trong nhóm Slides, chọn nút lệnh Layout
+Các phát biểu nào sau đây là đúng? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Các máy tính vận hành phiên bản Windows 64-bit có thể chạy các phiên bản phần mềm 32 – bit hoặc 64 -bit; Các máy tính vận hành phiên bản Windows 32 –bit chỉ có thể chạy được các phiên bản phần mềm 32-bit mà không chạy được các phiên bản phần mềm 64-bit
+Làm thế nào để gửi 30 tệp đề thi cho giáo vụ qua email trong một lần gửi thư?
+Điểm đạt được: 1
+Đáp án thí sinh: Nén 30 tệp đề thi thành một tệp rồi gửi
+Ghép các tên nhóm lệnh trong thẻ Table/Layout tương ứng với tác dụng của chúng
+Điểm đạt được: 1
+Đáp án thí sinh: Rows & Columns - Chèn một dòng hoặc một cột đơn vào bảng; Merge - Hòa nhập và tách các ô; Cell Size - Điều chỉnh độ rộng của cột, chiều cao của dòng; Alignment - Căn lề cho dữ liệu trong bảng theo chiều ngang và chiều dọc
+Thương mại điện tử (E-commerce) nghĩa là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Mua và bán hàng hóa từ các nhà bán lẻ và thanh toán thông qua Internet Banking
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Quay trở lại màn hình trước đó
+Bạn đang cân nhắc lựa chọn loại ghế ngồi cho nhân viên trong công ty làm việc với máy tính, bạn nên chọn loại ghế ngồi nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: 
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Để tùy chọn màu sắc cụ thể cho đường viền cửa sổ, trình đơn Start hoặc thanh tác vụ, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy lựa chọn tên các trình duyệt web trong danh sách các phần mềm sau đây? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Google Chrome; Mozilla Firefox; Cốc Cốc
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Hãy sắp xếp các loại phần mềm theo đúng thông tin mô tả về hình thức cấp phép của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm chia sẻ (Shareware) - Phần mềm thường được phân phối miễn phí hoặc với chi phí thấp và thường đỏi hỏi phải chi trả cho việc truy cập đẩy đủ các tính năng, và thường bị giới hạn thời gian sử dụng; Phần mềm thương mại - Là phần mềm được sản xuất nhằm mục đích buôn bán hoặc phụ vụ cho mục đích thương mại. Người dùng thường phải trả tiền để có thể sử dụng được loại phần mềm này; Phần mềm miễn phí (Freeware) - Phần mềm miễn phí bởi tác giả và không yêu cầu thanh toán phí, thường không bị giới hạn thời gian sử dụng
+Hãy nháy chuột vào đối tượng hộp lựa chọn (radio button) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để chọn cả dòng văn bản, bạn có thể sử dụng các phương pháp nào? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấp chuột  vào đầu dòng và kéo qua dòng văn bản; Nháy chuột vào lề trái dòng văn bản
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy sắp xếp các loại cổng (port) với các loại nguồn hoặc thiết bị kết nối phù hợp:
+Điểm đạt được: 0
+Đáp án thí sinh: Power connector - Cung cấp điện năng; VGA port - Mạng dây; RJ – 45 Jack - Màn hình mở rộng ví dụ máy chiếu; USB port - 127 loại thiết bị khác nhau; Audio port - Tai nghe, micro, loa
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Hãy kéo thả cụm từ cho sẵn vào ô trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn thức thời
+Khi tìm kiếm tệp tin/thư mục thì ký tự "?" dùng để?
+Điểm đạt được: 0
+Đáp án thí sinh: Đại diện cho dấu cách

@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Hoàng Thị Hải, Yến
+Điểm của thí sinh: 25
+Sắp xếp các khái niệm sau tăng dần theo quan hệ bao hàm.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Ký tự (Character); 2. Từ (Word); 3. Dòng (Line); 4. Đoạn (Paragraph); 5. Trang (Page)
+Ghép các thuật ngữ với mô tả của chúng:
+Điểm đạt được: 1
+Đáp án thí sinh: Câu - Gồm một nhóm từ kết thúc bằng dấu chấm, chấm than hoặc dấu hỏi chấm; Đoạn - Gồm nhiều câu có liên quan đến nhau, hoàn chỉnh về ngữ nghĩa và kết thúc bởi dấu ngắt đoạn.
+Hãy kéo thả đáp án vào chỗ trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: đánh dấu trang yêu thích
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Insert, trong nhóm Illustrations, nháy vào nút lệnh SmartArt; Trên thanh công cụ truy xuất nhanh, nháy vào nút lệnh SmartArt
+Việc nén tệp tin, thư mục có ý nghĩa gì?(Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+Sắp xếp các bước để thực hiện di chuyển một tệp tin/thư mục.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Move To Folder; 4. Trong hộp thoại Move Items, chọn thư mục đích và nháy chuột vào nút lệnh Move
+Hãy lựa chọn tên các trình duyệt web trong danh sách các phần mềm sau đây? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Google Chrome; Mozilla Firefox; Cốc Cốc
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Hãy sắp xếp các đơn vị đo tốc độ của vi xử lý sau theo thứ tự tăng dần:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Hertz; 2. Kilohertz; 3. Megahertz; 4. Gigahertz
+Để xoá các thư mục/tệp tin trong Recycle Bin ta thực hiện bằng cách nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nháy phải chuột vào Recycle Bin/Empty Recycle Bin/Yes
+WWW là viết tắt của cụm từ nào?
+Điểm đạt được: 1
+Đáp án thí sinh: World Wide Web
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Bạn đang cần trình bày một bài phát biểu quảng quá hình ảnh công ty của bạn trong một buổi hội thảo. Phần mềm nào sau đây có thể hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft PowerPoint
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Hãy sắp xếp tên loại giấy phép bản quyền phần mềm với định nghĩa tương ứng của nó:
+Điểm đạt được: 0
+Đáp án thí sinh: Giấy phép đơn (Single seat license) - Giấy phép để cài đặt và sử dụng phần mềm đó chỉ trên một máy tính; Giấy phép khối lượng sử dụng (Volumn license) - Cho người mua sử dụng phần mềm trên một mạng tại một địa điểm duy nhất với một số lượng người dùng không giấy hạn.; Giấy phép trung tâm (Site license) - Giấy phép cho phép cài đặt chương trình từ xa vào các máy tính cá nhân trong mạng nội bộ và nhập mã khóa để kích hoạt chương trình.; Phần mềm như một dịch vụ (SaaS) - Cho phép truy cập và sử dụng phần mềm của nhà cung cấp dịch vụ ứng dụng từ hệ thống của người dùng thông qua mạng nội bộ công ty hoặc Internet.
+Khổ giấy mặc định được thiết lập ở đâu trong hệ thống của bạn?
+Điểm đạt được: 0
+Đáp án thí sinh: Thẻ Page Layout
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Phát biểu nào sau đây không phải là đặc điểm phù hợp của hình thức làm việc từ xa (Teleworking)?  (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Làm việc từ xa giúp phát triển kỹ năng giao tiếp và kỹ năng con người tốt hơn so hình thức làm việc truyền thống
+Hãy ghép nối phần đuôi tên miền và nhóm tên miền tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: .edu - Các trang Web giáo dục; .com - Các công ty, doanh nghiệp; .org - Các tổ chức phi chính phủ, phi lợi nhuận; .gov - Các trang Web thuộc chính phủ
+Nháy chọn nút lệnh cho phép lưu bảng tính trên các ổ đĩa trên mạng:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Hãy nối tên phím với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: PrntScr - Chụp lại thông tin trên màn hình và gửi tới Windows Clipboard; Từ F1 đến F12 - Các phím chức năng, thường được cài đặt làm phím tắt các lệnh thường dùng trong các chương trình ứng dụng; Windows - Hiển thị trình đơn Start; Caps Lock - Dùng để bật trạng thái viết ký tự chữ in hoa
+Hãy cho biết các cách thức đặt tay sử dụng con chuột nào sau đây là đúng cách? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: BC

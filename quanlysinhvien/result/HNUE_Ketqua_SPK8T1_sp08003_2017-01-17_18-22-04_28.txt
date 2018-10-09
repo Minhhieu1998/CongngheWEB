@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị, Hằng
+Điểm của thí sinh: 28
+World Wide Web là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Insert, trong nhóm Illustrations, nháy vào nút lệnh SmartArt
+Để nén và giải nén tệp/thư mục, trên hệ điều hành Windows cần cài phần mềm gì? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm Winrar; Phần mềm Winzip
+Tùy chọn nào cho phép gửi bảng tính Excel qua email như là một tệp tin đính kèm?
+Điểm đạt được: 1
+Đáp án thí sinh: Send as Attachment
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Sắp xếp các bước để thực hiện sao chép một tệp tin/thư mục
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Copy To Folder; 4. Trong hộp thoại Copy Items, chọn thư mục đích, nháy chuột vào nút lệnh Copy
+Hãy nối các hình ảnh mô tả với các ý nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Nút lệnh dùng để thiết lập các định dạng chung cho toàn bộ bài trình chiếu;  - Nút lệnh dùng để thiết lập các định dạng về in ấn bản phát tay không có ghi chú;  - Nút lệnh dùng để thiết lập các định dạng về in ấn bản phát tay có ghi chú
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Dữ liệu ngày tháng được nhập theo kiểu tháng/ ngày/ năm. Hãy sắp xếp các thao tác sau đây thành quy trình đúng để chỉnh dữ liệu lại thành ngày/ tháng/ năm (với 2 chữ số cho ngày, 2 chữ số cho tháng và 4 chữ số cho năm).
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Nháy chuột phải chọn Format Cells…; 2. Trong thẻ Number chọn Custom; 3. Lựa chọn những ô dữ liệu cần định dạng; 4. Nhập dd/mm/yyyy tại ô Type; 5. Nháy chọn OK
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Hãy hoàn thành phát biểu sau bằng cách kéo thả cụm từ cho trước vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web dùng để hiển thị các trang Web trên Internet
+Để tạo tầm nhìn thoải mái tránh mỏi mắt khi làm việc với máy tính, theo nguyên tắc công thái học khoảng cách từ màn hình tới mắt nên là bao nhiều?
+Điểm đạt được: 1
+Đáp án thí sinh: 50-70cm
+Lợi ích thu được từ việc sử dụng thương mại điện tử là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn có thể mua sắm 24 giờ một ngày, 365 ngày một năm.
+Tại sao bạn muốn tạo chữ ký trong thư điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Để chứa thông tin chuẩn, chẳng hạn như thông tin liên lạc của bạn trên mỗi bản tin mới.
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Lệnh nào sau đây dùng để thay đổi tên tệp tin hoặc thư mục?
+Điểm đạt được: 1
+Đáp án thí sinh: Rename
+Hãy sắp thứ tự các thao tác để tạo ra một định dạng số thứ tự tự động mới?
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy chuột chọn thẻ Home; 2. Trong nhóm Paragraph, nháy chuột vào cạnh phải của nút lệnh Numbering; 3. Trên bảng chọn Numbering Library, chọn lệnh Define New Number Format; 4. Chọn các tùy chỉnh Number style, Number format, font, alignment; 5. Nháy chuột chọn nút OK
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Tệp/thư mục sau khi được nén có dung lượng thế nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhỏ hơn trước khi nén
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để thay đổi độ phân giải màn hình nền Desktop, bạn nháy chuột phải vào vùng trống trên màn hình nền Desktop và chọn mục chọn nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Screen resolution
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Behind text
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Không có phông chữ tương ứng trong bộ phông của hệ thống; Bảng mã và phông chữ không tương thích khi soạn thảo

@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Phạm Thị Kim, Ngân
+Điểm của thí sinh: 24
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy lựa chọn tên các trình duyệt web trong danh sách các phần mềm sau đây? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Google Chrome; Mozilla Firefox; Cốc Cốc
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 0
+Đáp án thí sinh: A
+Hãy sắp xếp các bước theo thứ tự đúng để khởi động máy tính ở chế độ an toàn (Safe Mode):
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Dùng tổ hợp phím Windows + R để mở hộp thoại Run; 2. Gõ msconfig và nhấn Enter để mở cửa sổ System Configuration; 3. Chọn tab Boot và tích chọn tùy chọn Safe boot trong vùng Boot options; 4. Khởi động lại máy tính để vào chế độ Safe Mode; 5. Nhấn chọn nút OK trên cửa sổ để hoàn tất quá trình thiết đặt chế độ khởi động máy
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Giao thức nào sau đây được dùng chủ yếu trên Internet?
+Điểm đạt được: 1
+Đáp án thí sinh: TCP/IP
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn trang muốn đánh dấu; 2. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 3. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 4. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 5. Nhấn nút Done để hoàn thành
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Là trang được hiển thị mặc định khi truy cập vào Website trên trình duyệt
+Dữ liệu ngày tháng được nhập theo kiểu tháng/ ngày/ năm. Hãy sắp xếp các thao tác sau đây thành quy trình đúng để chỉnh dữ liệu lại thành ngày/ tháng/ năm (với 2 chữ số cho ngày, 2 chữ số cho tháng và 4 chữ số cho năm).
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Lựa chọn những ô dữ liệu cần định dạng; 2. Nháy chuột phải chọn Format Cells…; 3. Trong thẻ Number chọn Custom; 4. Nhập dd/mm/yyyy tại ô Type; 5. Nháy chọn OK
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để hiển thị trình đơn tắt (Shortcut menu) của một mục chọn bạn trỏ con trỏ chuột vào mục chọn đó và nhấn vào phím nào trong các phím sau đây trên bàn phím:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Hãy cho biết các cách thức đặt tay sử dụng con chuột nào sau đây là đúng cách? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 0
+Đáp án thí sinh: B,C
+Tùy chọn nào cho phép gửi bảng tính Excel qua email như là một tệp tin đính kèm?
+Điểm đạt được: 0
+Đáp án thí sinh: Send as PDF
+Tổ hợp phím nào sau đây được sử dụng để phục hồi cửa sổ về kích cỡ trước đó?
+Điểm đạt được: 0
+Đáp án thí sinh: Alt + Spacebar + X
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Trong Windows muốn xóa dữ liệu và không cho phục hồi ta cần làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chọn đối tượng cần xóa, nhấn tổ hợp phím Shift+Delete
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Tệp/thư mục sau khi được nén có dung lượng thế nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhỏ hơn trước khi nén
+Những thiết bị nào sau đây là thiết bị xuất thông tin ra của máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình; Màn hình cảm ứng; Máy in; Loa
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đặc điểm của khán giả; Độ dài của bài thuyết trình; Sử dụng phương tiện hỗ trợ: máy tính sách tay hay thiết bị khác
+Sắp xếp các khái niệm sau tăng dần theo quan hệ bao hàm.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Ký tự (Character); 2. Từ (Word); 3. Dòng (Line); 4. Đoạn (Paragraph); 5. Trang (Page)
+Hãy nối tên phím với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: PrntScr - Chụp lại thông tin trên màn hình và gửi tới Windows Clipboard; Từ F1 đến F12 - Các phím chức năng, thường được cài đặt làm phím tắt các lệnh thường dùng trong các chương trình ứng dụng; Windows - Hiển thị trình đơn Start; Caps Lock - Dùng để bật trạng thái viết ký tự chữ in hoa

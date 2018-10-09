@@ -1,0 +1,21 @@
+#footer div p{
+  float:left;
+  margin-left: 0%;
+  font-size: 20px;
+  font-family: sans-serif;
+margin-top: 10%;
+  width: 50%;
+  background-color: grey;
+    position:absolute;
+   bottom:0;
+ 
+}
+#footer div ul{
+float: left;
+margin-right: : 50%;
+font-family: sans-serif;
+width: 50%;
+margin-top: 10%;background-color: grey;  
+  position:absolute;
+   bottom:0;
+}

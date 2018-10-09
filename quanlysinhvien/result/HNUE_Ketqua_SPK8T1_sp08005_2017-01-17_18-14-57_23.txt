@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Lê Chí, Hằng
+Điểm của thí sinh: 23
+Thư điện tử (Email) là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một bức thư được chuyển và nhận qua mạng máy tính
+Khổ giấy mặc định được thiết lập ở đâu trong hệ thống của bạn?
+Điểm đạt được: 0
+Đáp án thí sinh: Thẻ Page Layout
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Lợi ích thu được từ việc sử dụng thương mại điện tử là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Bạn có thể chạm vào và cảm nhận hàng hoá trước khi bạn mua chúng.
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Tổ hợp phím nào sau đây được sử dụng để thu gọn nhanh cửa sổ về thanh tác vụ?
+Điểm đạt được: 0
+Đáp án thí sinh: Alt + Spacebar + C
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Mạng máy tính là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một nhóm gồm hai hoặc nhiều máy tính được kết nối với nhau theo cách để chúng có thể giao tiếp, chia sẻ tài nguyên và trao đổi dữ liệu với nhau
+Hãy nháy chuột vào tùy chọn dùng để tạo khung và đường kẻ cho văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Việc nén tệp tin, thư mục có ý nghĩa gì?(Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Để nén và giải nén tệp/thư mục, trên hệ điều hành Windows cần cài phần mềm gì? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm Winrar; Phần mềm Winzip
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: phải
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Lưu và phân phát (publish) nội dung bài thuyết trình; 4. Thực hiện việc thuyết trình bằng một công cụ trình chiếu
+Đánh dấu vào nút lệnh để xóa bảng khỏi văn bản.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Chương trình nào sau đây là trình duyệt Web? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Safari; Window Explorer
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Phần mềm nén tệp sử dụng để làm gì?:
+Điểm đạt được: 1
+Đáp án thí sinh: Giảm dung lượng tệp tin
+Hãy kéo thả cụm từ cho sẵn vào ô trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn thức thời
+Nháy chọn nút lệnh cho phép lưu bảng tính trên các ổ đĩa trên mạng:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 0
+Đáp án thí sinh:  - Broadcard Slide Show;  - Slide Show From Current Slide;  - Slide Show From Beginning;  - Custom Slide Show
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ
+Biểu tượng hình sao  trên trình duyệt Web dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Thêm các trang yêu thích
+Sắp xếp các bước để thực hiện di chuyển một tệp tin/thư mục.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 2. Chọn tệp tin/thư mục; 3. Trong hộp thoại Move Items, chọn thư mục đích và nháy chuột vào nút lệnh Move; 4. Nháy chuột vào lệnh Move To Folder
+Trong Windows muốn xóa dữ liệu và không cho phục hồi ta cần làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chọn đối tượng cần xóa, nhấn tổ hợp phím Shift+Delete

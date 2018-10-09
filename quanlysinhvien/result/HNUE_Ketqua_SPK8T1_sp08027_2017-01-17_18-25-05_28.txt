@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Minh, Thoa
+Điểm của thí sinh: 28
+Hãy chỉ ra ba thông tin cấu hình hệ thống quan trọng nhất cần được kiểm tra trước khi cài đặt một chương trình ứng dụng vào máy? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Phiên bản hệ điều hành; Dung lượng bộ nhớ RAM; Tốc độ vi xử lý
+Cho biết các chức năng chính của phần mềm bảng tính excel?
+Điểm đạt được: 1
+Đáp án thí sinh: Thực hiện các phép tính, phân tích giả định “nếu – thì”, biểu diễn dữ liệu bằng biểu đồ, hiển thị sơ đồ, hình ảnh; cung cấp khả năng sắp xếp, tìm kiếm và lọc thông tin.
+Hãy ghép nối phần đuôi tên miền và nhóm tên miền tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: .edu - Các trang Web giáo dục; .com - Các công ty, doanh nghiệp; .org - Các tổ chức phi chính phủ, phi lợi nhuận; .gov - Các trang Web thuộc chính phủ
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Behind text
+Để thay đổi độ phân giải màn hình nền Desktop, bạn nháy chuột phải vào vùng trống trên màn hình nền Desktop và chọn mục chọn nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Screen resolution
+Nháy chọn nút lệnh cho phép lưu bảng tính trên các ổ đĩa trên mạng:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy sắp xếp các loại cổng (port) với các loại nguồn hoặc thiết bị kết nối phù hợp:
+Điểm đạt được: 1
+Đáp án thí sinh: Power connector - Cung cấp điện năng; VGA port - Màn hình mở rộng ví dụ máy chiếu; RJ – 45 Jack - Mạng dây; USB port - 127 loại thiết bị khác nhau; Audio port - Tai nghe, micro, loa
+Tin nhắn văn bản là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Là dịch vụ tin nhắn ngắn bị giới hạn số lượng ký tự, được gửi qua mạng di động
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Biểu tượng hình sao  trên trình duyệt Web dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Thêm các trang yêu thích
+Ghép hình ảnh và lệnh tương ứng khi chỉnh sửa cấu trúc bảng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Chèn thêm một dòng ngay trên dòng đang được chọn trong bảng;  - Chèn thêm một dòng ngay dưới dòng được chọn  trong bảng;  - Chèn thêm một dòng ngay bên trái dòng đang được chọn  trong bảng;  - Chèm thêm một dòng ngay bên phải dòng đang được chọn  trong bảng
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Phát biểu nào sau đây không đúng với dịch vụ tin nhắn tức thời?
+Điểm đạt được: 1
+Đáp án thí sinh: Không sử dụng được trên máy tính.
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Để thiết lập chế độ Use Presenter View, bạn cần phải có:
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn cần phải có màn hình thứ hai, hoặc máy chiếu kết nối với máy tính của bạn
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy kéo thả đáp án vào chỗ trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: đánh dấu trang yêu thích
+Bạn đang cần trình bày một bài phát biểu quảng quá hình ảnh công ty của bạn trong một buổi hội thảo. Phần mềm nào sau đây có thể hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft PowerPoint
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 0
+Đáp án thí sinh: Repeat continuously
+Tùy chọn nào dưới đây là đúng khi xóa cache trình duyệt?
+Điểm đạt được: 1
+Đáp án thí sinh: Xóa các tập tin tạm (Temporary Internet Files) phát sinh từ các trang Web đã được truy cập trước đó.
+Trên màn hình desktop, khu vực nào chứa tùy chọn cho phép bạn nháy chuột vào chuột để thay đổi ngày giờ hiện tại?
+Điểm đạt được: 1
+Đáp án thí sinh: Vùng thông báo (Task Notification)
+Làm thế nào để gửi 30 tệp đề thi cho giáo vụ qua email trong một lần gửi thư?
+Điểm đạt được: 1
+Đáp án thí sinh: Nén 30 tệp đề thi thành một tệp rồi gửi
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Để xoá một tệp, ta thực hiện:
+Điểm đạt được: 1
+Đáp án thí sinh: Mở thư mục chứa tệp, nháy phải chuột vào tên tệp, chọn Delete

@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị Mai, Hương
+Điểm của thí sinh: 25
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Để hủy một lựa chọn khi thao tác trên Windows, hoặc tạo ra một mã đặc biệt cho chương trình ứng dụng, người ta thường cài đặt tính năng này trên phím nào của bàn phím?
+Điểm đạt được: 1
+Đáp án thí sinh: esc
+Việc nén tệp tin, thư mục có ý nghĩa gì?(Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+Hãy hoàn thành phát biểu sau bằng cách kéo thả cụm từ cho trước vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web dùng để hiển thị các trang Web trên Internet
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 0
+Đáp án thí sinh: Chính phủ điện tử là chính phủ gồm các thành viên được đào tạo từ lĩnh vực công nghệ thông tin và truyền thông
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+Ghép hình ảnh và lệnh tương ứng khi chỉnh sửa cấu trúc bảng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Chèn thêm một dòng ngay trên dòng đang được chọn trong bảng;  - Chèn thêm một dòng ngay dưới dòng được chọn  trong bảng;  - Chèn thêm một dòng ngay bên trái dòng đang được chọn  trong bảng;  - Chèm thêm một dòng ngay bên phải dòng đang được chọn  trong bảng
+Hãy sắp xếp các loại phần mềm theo đúng thông tin mô tả về hình thức cấp phép của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm chia sẻ (Shareware) - Phần mềm thường được phân phối miễn phí hoặc với chi phí thấp và thường đỏi hỏi phải chi trả cho việc truy cập đẩy đủ các tính năng, và thường bị giới hạn thời gian sử dụng; Phần mềm thương mại - Là phần mềm được sản xuất nhằm mục đích buôn bán hoặc phụ vụ cho mục đích thương mại. Người dùng thường phải trả tiền để có thể sử dụng được loại phần mềm này; Phần mềm miễn phí (Freeware) - Phần mềm miễn phí bởi tác giả và không yêu cầu thanh toán phí, thường không bị giới hạn thời gian sử dụng
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Tổ hợp phím nào sau đây được sử dụng để phục hồi cửa sổ về kích cỡ trước đó?
+Điểm đạt được: 0
+Đáp án thí sinh: Alt + Spacebar + X
+Để tùy chọn màu sắc cụ thể cho đường viền cửa sổ, trình đơn Start hoặc thanh tác vụ, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Khi tìm kiếm tệp tin/thư mục thì ký tự "*" dùng để?
+Điểm đạt được: 0
+Đáp án thí sinh: Đại diện cho 1 ký tự
+Hãy kéo thả cụm từ cho sẵn vào ô trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn thức thời
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 0
+Đáp án thí sinh: Slide Sorter
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Hãy chỉ ra hai quá trình ngăn chặn các vấn đề an ninh liên quan đến tập tin đính 
+kèm ? (Chọn hai)
+Điểm đạt được: 0
+Đáp án thí sinh: Cập nhật phần mềm chống virus mỗi năm một lần; Xóa các email không rõ nguồn gốc
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Hãy nháy chuột vào tùy chọn dùng để tạo khung và đường kẻ cho văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng

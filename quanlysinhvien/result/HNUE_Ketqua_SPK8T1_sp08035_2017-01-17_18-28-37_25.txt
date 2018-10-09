@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thu, Trang
+Điểm của thí sinh: 25
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đặc điểm của khán giả; Thời điểm và địa điểm diễn ra thuyết trình; Độ dài của bài thuyết trình
+Hãy chỉ ra hai quá trình ngăn chặn các vấn đề an ninh liên quan đến tập tin đính 
+kèm ? (Chọn hai)
+Điểm đạt được: 1
+Đáp án thí sinh: Lập lịch kiểm tra virus để chạy một lần một ngày; Xóa các email không rõ nguồn gốc
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Top and bottom
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Tệp/thư mục sau khi được nén có dung lượng thế nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhỏ hơn trước khi nén
+Nháy chọn nút lệnh cho phép lưu bảng tính trên các ổ đĩa trên mạng:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy nháy chuột vào đối tượng danh sách kéo xuống (dropdown-menu) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 1
+Đáp án thí sinh:  - Slide Show From Beginning;  - Slide Show From Current Slide;  - Broadcard Slide Show;  - Custom Slide Show
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Phát biểu nào sau đây không đúng với dịch vụ tin nhắn tức thời?
+Điểm đạt được: 1
+Đáp án thí sinh: Không sử dụng được trên máy tính.
+Lệnh nào sau đây dùng để thay đổi tên tệp tin hoặc thư mục?
+Điểm đạt được: 1
+Đáp án thí sinh: Rename
+Để hủy một lựa chọn khi thao tác trên Windows, hoặc tạo ra một mã đặc biệt cho chương trình ứng dụng, người ta thường cài đặt tính năng này trên phím nào của bàn phím?
+Điểm đạt được: 1
+Đáp án thí sinh: esc
+Hãy cho biết các cách thức đặt tay sử dụng con chuột nào sau đây là đúng cách? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: BC
+Những thiết bị nào sau đây là thiết bị xuất thông tin ra của máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình; Màn hình cảm ứng; Máy in; Loa
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Cách nào cho phép bạn tạo một trang chiếu mới có bố cục Two Content?
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, nháy chuột vào mũi tên bên dưới nút lệnh New Slide, chọn bố cục Two Content
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Sâu máy tính (worm) khác với virus ở chỗ nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Sâu máy tính gây hại cho phần cứng còn virus gây hại cho phần mềm của hệ thống máy tính
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Là trang được hiển thị mặc định khi truy cập vào Website trên trình duyệt
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Hãy sắp xếp thứ tự các bước để đánh dấu một trang Web:
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Trên thanh địa chỉ nháy chuột chọn biểu tượng Customize and control Google Chrome như hình dấu ba chấm; 2. Nháy chọn thẻ Bookmarks, nháy chọn Bookmark this page; 3. Trong hộp thoại Bookmark, đặt tên cho bookmark tại ô Name; 4. Chọn trang muốn đánh dấu; 5. Nhấn nút Done để hoàn thành
+Tổ hợp phím nào sau đây được sử dụng để mở tối đa cửa sổ?
+Điểm đạt được: 1
+Đáp án thí sinh: Alt + Spacebar + X
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo

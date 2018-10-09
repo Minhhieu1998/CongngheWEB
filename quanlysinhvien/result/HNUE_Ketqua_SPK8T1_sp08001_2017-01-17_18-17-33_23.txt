@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Vũ Hạnh, Dung
+Điểm của thí sinh: 23
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Để tạo tầm nhìn thoải mái tránh mỏi mắt khi làm việc với máy tính, theo nguyên tắc công thái học khoảng cách từ màn hình tới mắt nên là bao nhiều?
+Điểm đạt được: 1
+Đáp án thí sinh: 50-70cm
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Insert, trong nhóm Illustrations, nháy vào nút lệnh SmartArt
+Hãy ghép nối các từ khóa với ý nghĩa tương ứng trong tùy chọn in trên trình duyệt Chrome.
+Điểm đạt được: 1
+Đáp án thí sinh: Simplify page - Chế độ in chỉ giữ lại những thông tin chính như: nội dung chữ, các ảnh được lựa chọn hoặc các liên  kết; Header and footers - Thêm ngày in trên đầu trang và địa chỉ nguồn phía dưới trang; Two-sided - Tùy chọn in hai mặt trang giấy; Background graphics - Tùy chọn in có hình nền
+Lựa chọn nào sau đây để thay đổi bố cục một trang chiếu? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, chọn nút lệnh Layout
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Tại sao bạn muốn tạo chữ ký trong thư điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Để chứa thông tin chuẩn, chẳng hạn như thông tin liên lạc của bạn trên mỗi bản tin mới.
+Sâu máy tính (worm) khác với virus ở chỗ nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Sâu máy tính gây hại cho phần cứng còn virus gây hại cho phần mềm của hệ thống máy tính
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Hãy nối tên trang web với thể loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/ - Mạng xã hội; http://vnexpress.net/ - Báo điện tử; http://www.chuyensp.edu.vn/ - Trang tin điện tử nội bộ; https://www.barackobama.com/ - Trang tin điện tử cá nhân
+Chương trình nào sau đây là trình duyệt Web? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Opera; Window Explorer
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Việc nén tệp tin, thư mục có ý nghĩa gì?(Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Làm cho dung lượng nhỏ đi đáng kể; Sao chép nhanh hơn; Hạn chế việc thay đổi nội dung
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Phương  thức  nào  là  thời  gian  thực,  dựa  trên  thông  tin  văn  bản  giữa  hai  hoặc  nhiều người tham gia sử dụng Internet.
+Điểm đạt được: 0
+Đáp án thí sinh: Thư điện tử
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Hãy hoàn thành phát biểu sau bằng cách kéo thả đáp án vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: In line with text
+Trên màn hình desktop, khu vực nào chứa tùy chọn cho phép bạn nháy chuột vào chuột để thay đổi ngày giờ hiện tại?
+Điểm đạt được: 1
+Đáp án thí sinh: Vùng thông báo (Task Notification)
+Nháy chọn nút lệnh cho phép lưu bảng tính trên các ổ đĩa trên mạng:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Tổ hợp phím nào sau đây được sử dụng để đóng cửa sổ?
+Điểm đạt được: 0
+Đáp án thí sinh: Alt + Spacebar + X
+Tùy chọn nào cho phép gửi bảng tính Excel qua email như là một tệp tin đính kèm?
+Điểm đạt được: 1
+Đáp án thí sinh: Send as Attachment
+Để thay đổi độ phân giải màn hình nền Desktop, bạn nháy chuột phải vào vùng trống trên màn hình nền Desktop và chọn mục chọn nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Screen resolution
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ
+Bạn hãy cho biết tên của một loại bộ nhớ chính có các đặc điểm sau đây: dữ liệu trong nó được tồn tại chỉ khi nào máy tính còn bật nguồn, khi máy tính tắt nguồn dữ liệu trong nó cũng mất đi, dung lượng của nó ảnh hưởng rất lớn tới tôc độ và hiệu năng của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: RAM
+Bạn đang cần trình bày một bài phát biểu quảng quá hình ảnh công ty của bạn trong một buổi hội thảo. Phần mềm nào sau đây có thể hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft PowerPoint

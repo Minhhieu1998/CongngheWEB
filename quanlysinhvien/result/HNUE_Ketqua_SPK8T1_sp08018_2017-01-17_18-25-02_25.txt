@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Lưu Xuân, Quý
+Điểm của thí sinh: 25
+Hãy nháy chọn nút lệnh cho phép bạn quan sát tất cả các slides?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Những đặc điểm nào sau đây thường được coi là nhược điểm của thương mại điện tử? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Khả năng truyền thông quảng cáo sản phẩm khó khăn và tốn kém hơn so với bán hàng truyền thống; Khách hàng có thể mua phải những sản phẩm không mong đợi
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12
+Hàm nào sau đây được sử dụng để tìm số lớn nhất trong một dãy số?
+Điểm đạt được: 1
+Đáp án thí sinh: =MAX(B1:B5)
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Hãy sắp xếp tên loại giấy phép bản quyền phần mềm với định nghĩa tương ứng của nó:
+Điểm đạt được: 0
+Đáp án thí sinh: Giấy phép đơn (Single seat license) - Giấy phép để cài đặt và sử dụng phần mềm đó chỉ trên một máy tính; Giấy phép khối lượng sử dụng (Volumn license) - Cho phép truy cập và sử dụng phần mềm của nhà cung cấp dịch vụ ứng dụng từ hệ thống của người dùng thông qua mạng nội bộ công ty hoặc Internet.; Giấy phép trung tâm (Site license) - Cho người mua sử dụng phần mềm trên một mạng tại một địa điểm duy nhất với một số lượng người dùng không giấy hạn.; Phần mềm như một dịch vụ (SaaS) - Giấy phép cho phép cài đặt chương trình từ xa vào các máy tính cá nhân trong mạng nội bộ và nhập mã khóa để kích hoạt chương trình.
+Ghép hình ảnh và lệnh tương ứng khi chỉnh sửa cấu trúc bảng
+Điểm đạt được: 1
+Đáp án thí sinh:  - Chèn thêm một dòng ngay trên dòng đang được chọn trong bảng;  - Chèn thêm một dòng ngay dưới dòng được chọn  trong bảng;  - Chèn thêm một dòng ngay bên trái dòng đang được chọn  trong bảng;  - Chèm thêm một dòng ngay bên phải dòng đang được chọn  trong bảng
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+WWW là viết tắt của cụm từ nào?
+Điểm đạt được: 1
+Đáp án thí sinh: World Wide Web
+Khung nhìn nào hiển thị các cột của văn bản thành một cột, cho phép bạn tập trung vào chỉnh sửa chữ thay vì bố cục?
+Điểm đạt được: 0
+Đáp án thí sinh: Normal
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 0
+Đáp án thí sinh:  - Slide Show From Beginning;  - Custom Slide Show;  - Broadcard Slide Show;  - Slide Show From Current Slide
+Để hiển thị trình đơn tắt (Shortcut menu) của một mục chọn bạn trỏ con trỏ chuột vào mục chọn đó và nhấn vào phím nào trong các phím sau đây trên bàn phím:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Tiến trình bật máy tính và nạp hệ điều hành
+Một giá trị số có thể được coi là giá trị văn bản nếu có ký hiệu gì đứng trước?
+Điểm đạt được: 0
+Đáp án thí sinh: Dấu #
+Hãy sắp xếp các đơn vị đo tốc độ của vi xử lý sau theo thứ tự tăng dần:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Hertz; 2. Kilohertz; 3. Megahertz; 4. Gigahertz
+Hãy nối các tổ hợp phím tắt với chức năng tương ứng của chúng khi thực hiện trên trang tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Shift + F11 - Chèn một trang tính mới; Ctrl + Page Up - Chuyển sang trang tính trước; Ctrl + Page Down - Chuyển sang trang tính kế tiếp
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Không có phông chữ tương ứng trong bộ phông của hệ thống; Bảng mã và phông chữ không tương thích khi soạn thảo
+Hãy nối tên hàm với chức năng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: HOUR - Trả về giờ của một giá trị thời gian; MINUTE - Trả về phút của một giá trị thời gian; NOW - Trả về ngày giờ hiện tại của hệ thống; DAY - Trả về ngày của một giá trị ngày tháng năm; MONTH - Trả về tháng của một giá trị ngày tháng năm; YEAR - Trả về năm của một giá trị ngày tháng năm
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 0
+Đáp án thí sinh: In font of text
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Các tùy chọn nào sau đây là tên của hệ điều hành? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Android; Ubuntu; Linux; Macintosh OS X
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Thư điện tử (Email) là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Một bức thư được chuyển và nhận qua mạng máy tính
+Hãy hoàn thành phát biểu sau bằng cách kéo thả đáp án vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web
+Để khóa thanh tác vụ bạn cần di chuyển con trỏ chuột tới vị trí thanh tác vụ và nháy chuột phải và chọn mục chọn nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Lock the taskbar
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 3. Lưu và phân phát (publish) nội dung bài thuyết trình; 4. Thực hiện việc thuyết trình bằng một công cụ trình chiếu
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó

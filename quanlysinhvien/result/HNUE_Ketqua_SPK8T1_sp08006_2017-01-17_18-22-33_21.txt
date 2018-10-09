@@ -1,0 +1,94 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị, Huyền
+Điểm của thí sinh: 21
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 0
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng; Date modified - Sắp xếp theo dung lượng lưu trữ của biểu tượng
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 0
+Đáp án thí sinh: A
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Lợi ích thu được từ việc sử dụng thương mại điện tử là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn có thể mua sắm 24 giờ một ngày, 365 ngày một năm.
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Trên màn hình làm việc của Google Chrome, hãy nháy chuột vào biểu tượng cho
+phép mở trang chủ của trình duyệt Web
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+World Wide Web là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+Thương mại điện tử (E-commerce) nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Mua và bán hàng hóa hay dịch vụ trực tuyến thông qua mạng Internet
+Để điều chỉnh âm lượng hệ thống bạn sẽ nhấy chuột vào vị trí nào sau đây trên vùng thông báo (Notification area)
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy nháy chuột vào đối tượng hộp lựa chọn (radio button) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 0
+Đáp án thí sinh: F2
+Hãy ghép nối các thuật ngữ theo định nghĩa tương ứng
+Điểm đạt được: 1
+Đáp án thí sinh: URL - Địa chỉ của một tài nguyên trên Internet, có cấu trúc phân cấp.; Trình duyệt - Là phần mềm dùng để hiển thị trang Web tương ứng trên địa chỉ Web; Máy tìm kiếm - Là công cụ giúp người dùng tìm kiếm các thông tin công cộng trên toàn bộ Internet; Upload - Là quá trình truyền tải dữ liệu từ máy tính lên mạng Internet.
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Hãy ghép nối các biểu tượng với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Đi đến trang tiếp theo;  - Quay trở lại trang Web trước đó;  - Tải lại trang Web đang xem
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Những đặc điểm nào sau đây thường được coi là nhược điểm của thương mại điện tử? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Làm gia tăng chi phí sản xuất và bán hàng; Khách hàng có thể mua phải những sản phẩm không mong đợi
+Hãy chỉ ra ba thông tin cấu hình hệ thống quan trọng nhất cần được kiểm tra trước khi cài đặt một chương trình ứng dụng vào máy? (Chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Dung lượng bộ nhớ RAM; Tốc độ vi xử lý; Tốc độ đọc ghi của đĩa cứng
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Hãy nháy chuột vào tùy chọn dùng để tạo khung và đường kẻ cho văn bản?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Cho biết các chức năng chính của phần mềm bảng tính excel?
+Điểm đạt được: 1
+Đáp án thí sinh: Thực hiện các phép tính, phân tích giả định “nếu – thì”, biểu diễn dữ liệu bằng biểu đồ, hiển thị sơ đồ, hình ảnh; cung cấp khả năng sắp xếp, tìm kiếm và lọc thông tin.
+Những phần mềm nào cần cài đặt để thực hiện các công việc văn phòng như: Gửi nhận thư, soạn thảo văn bản, in, nghe nhạc, đọc báo?
+Điểm đạt được: 0
+Đáp án thí sinh: HĐH Windows, Office, Foxit, Google Chrome, Windows Media Player
+Những cách nào cho phép thêm mới một sơ đồ tổ chức lên slide? (chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Home, trong nhóm SmartArt, nháy chuột vào một loại sơ đồ
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Hãy cho biết vị trí phím Windows trên một phần hình ảnh bàn phím sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Phát biểu nào sau đây không đúng với dịch vụ tin nhắn tức thời?
+Điểm đạt được: 1
+Đáp án thí sinh: Không sử dụng được trên máy tính.
+Chọn những kiểu dữ liệu có thể nhập vào ô tính? (3 kiểu)
+Điểm đạt được: 1
+Đáp án thí sinh: Văn bản; Giá trị dạng số; Công thức
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để nén và giải nén tệp/thư mục, trên hệ điều hành Windows cần cài phần mềm gì? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm Winrar; Phần mềm Winzip

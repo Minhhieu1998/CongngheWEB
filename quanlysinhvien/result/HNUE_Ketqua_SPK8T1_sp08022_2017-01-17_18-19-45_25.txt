@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Minh, Tuấn
+Điểm của thí sinh: 25
+Để hiển thị trình đơn tắt (Shortcut menu) của một mục chọn bạn trỏ con trỏ chuột vào mục chọn đó và nhấn vào phím nào trong các phím sau đây trên bàn phím:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy sắp thứ tự các thao tác để tạo ra một định dạng số thứ tự tự động mới?
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy chuột chọn thẻ Home; 2. Trong nhóm Paragraph, nháy chuột vào cạnh phải của nút lệnh Numbering; 3. Trên bảng chọn Numbering Library, chọn lệnh Define New Number Format; 4. Chọn các tùy chỉnh Number style, Number format, font, alignment; 5. Nháy chuột chọn nút OK
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Đặc điểm của khán giả; Độ dài của bài thuyết trình; Sử dụng phương tiện hỗ trợ: máy tính sách tay hay thiết bị khác
+Hãy chỉ ra ba thông tin cấu hình hệ thống quan trọng nhất cần được kiểm tra trước khi cài đặt một chương trình ứng dụng vào máy? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Phiên bản hệ điều hành; Dung lượng bộ nhớ RAM; Tốc độ vi xử lý
+Hãy nối tên trang web với thể loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/ - Mạng xã hội; http://vnexpress.net/ - Báo điện tử; http://www.chuyensp.edu.vn/ - Trang tin điện tử nội bộ; https://www.barackobama.com/ - Trang tin điện tử cá nhân
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Là trang được hiển thị mặc định khi truy cập vào Website trên trình duyệt
+Hãy điền những từ còn thiếu vào chỗ trống bằng cách kéo thả các từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Thiết bị trung tâm; Thiết bị ngoại vi
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: E-learning
+Boot máy tính nghĩa là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Tiến trình bật máy tính và nạp hệ điều hành
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: AB
+Thuật ngữ “Series” đề cập đến điều gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Nhóm các biểu đồ có thể sử dụng cho các loại dữ liệu khác nhau được đưa vào biểu đồ
+Chương trình nào sau đây là trình duyệt Web? (Chọn 2)
+Điểm đạt được: 0
+Đáp án thí sinh: Opera; Window Explorer
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 1
+Đáp án thí sinh: Notes Page
+Để điều chỉnh âm lượng hệ thống bạn sẽ nhấy chuột vào vị trí nào sau đây trên vùng thông báo (Notification area)
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Bộ định vị tài nguyên thống nhất (URL: Uniform Resource Locator) bao gồm những thành phần nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Giao thức của Website, tên máy chủ, tên miền đã đăng ký, tên miền ở cấp độ cao nhất
+Hãy ghép nối các thuật ngữ với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh: download - Lưu nội dung Website đang xem về máy tính cá nhân; history - Hiển thị lịch sử duyệt Web; print - Mở ra chế độ xem trước khi in; zoom - Thay đổi kích cỡ, chế độ xem toàn màn hình
+Sắp xếp các khái niệm sau tăng dần theo quan hệ bao hàm.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Ký tự (Character); 2. Từ (Word); 3. Dòng (Line); 4. Đoạn (Paragraph); 5. Trang (Page)
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: G3
+Hãy hoàn thành phát biểu sau bằng cách kéo thả đáp án vào ô trống:
+Điểm đạt được: 1
+Đáp án thí sinh: Trình duyệt Web

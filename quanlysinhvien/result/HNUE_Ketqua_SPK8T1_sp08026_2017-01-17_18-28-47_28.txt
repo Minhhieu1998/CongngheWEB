@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị, Thịnh
+Điểm của thí sinh: 28
+Hãy ghép nối các đối tượng với tên tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản một dòng (textbox);  - Nút lệnh (button);  - Hộp lựa chọn (radio button);  - Danh sách menu thả xuống (dropdown menu)
+Đánh dấu vào nút lệnh để xóa bảng khỏi văn bản.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để sắp xếp thứ tự hiển thị các biểu tượng trên màn hình nền bạn sử dụng tùy chọn Sort by trên trình đơn chuột phải của màn hình nền. Hãy nối tùy chọn kiểu sắp xếp và ý nghĩa tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Name - Sắp xếp theo thứ tự Alphabet tên của các biểu tượng; Item type - Sắp xếp theo kiểu biểu tượng (File dữ liệu, biểu tượng chương trình, thư mục,…); Size - Sắp xếp theo dung lượng lưu trữ của biểu tượng; Date modified - Sắp xếp theo ngày tháng cập nhật, tạo biểu tượng
+Giao thức nào sau đây được dùng chủ yếu trên Internet?
+Điểm đạt được: 1
+Đáp án thí sinh: TCP/IP
+Lệnh nào cho phép bạn quan sát slide và các ghi chú đi kèm với slide đó?
+Điểm đạt được: 1
+Đáp án thí sinh: Notes Page
+Khi tìm kiếm tệp tin/thư mục thì ký tự "?" dùng để?
+Điểm đạt được: 1
+Đáp án thí sinh: Đại diện cho 1 ký tự
+Tổ hợp phím nào sau đây được sử dụng để đóng cửa sổ?
+Điểm đạt được: 1
+Đáp án thí sinh: Alt + Spacebar + C
+Điền từ thích hợp bằng cách kéo từ đó vào chỗ trống.
+Điểm đạt được: 1
+Đáp án thí sinh: phải
+Hãy ghép các tổ hợp phím sau với chức năng tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Ctrl + Z - Khôi phục lại tệp tin hoặc thư mục vừa vị xóa; Shift + Delete - Xóa hoàn toàn đối tượng được chọn mà không lưu trữ trong thùng rác (Recycle Bin); Windows + E - Mở ứng dụng Windows Explorer; Windows + D - Thu tất cả các cửa sổ khác xuống thanh tác vụ và hiển thị màn hình Desktop
+Trong Windows muốn xóa dữ liệu và không cho phục hồi ta cần làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Chọn đối tượng cần xóa, nhấn tổ hợp phím Shift+Delete
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Ghép các tên nhóm lệnh trong thẻ Table/Layout tương ứng với tác dụng của chúng
+Điểm đạt được: 1
+Đáp án thí sinh: Rows & Columns - Chèn một dòng hoặc một cột đơn vào bảng; Merge - Hòa nhập và tách các ô; Cell Size - Điều chỉnh độ rộng của cột, chiều cao của dòng; Alignment - Căn lề cho dữ liệu trong bảng theo chiều ngang và chiều dọc
+Hãy ghép các biểu tượng với các lệnh tương ứng khi xem bài trình chiếu?
+Điểm đạt được: 0
+Đáp án thí sinh:  - Slide Show From Beginning;  - Slide Show From Current Slide;  - Custom Slide Show;  - Broadcard Slide Show
+Để khóa thanh tác vụ bạn cần di chuyển con trỏ chuột tới vị trí thanh tác vụ và nháy chuột phải và chọn mục chọn nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Lock the taskbar
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Hãy điền từ thích hợp bằng cách kéo từ đó vào chỗ trống trong phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: Handouts
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Hãy ghép các lệnh với các diễn giải chức năng tương ứng?
+Điểm đạt được: 1
+Đáp án thí sinh: Hide Slide - Ẩn slide hiện tại trong bài trình chiếu; Record Slide Show - Ghi lại bài thuyết trình; Rehearse Timings - Xác định thời gian trình chiếu cho từng slide một cách chính xác; Custom Slide Show - Trình chiếu một số slide được lựa chọn
+Những thiết bị nào sau đây là thiết bị nhập thông tin vào máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình cảm ứng; Chuột; Bàn phím; Máy quét ảnh
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: Ngân hàng điện tử
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 1
+Đáp án thí sinh: Nhấn phím F2; Nháy đúp chuột vào ô
+World Wide Web là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Hệ thống các tài liệu được liên kết với nhau trên mạng Internet
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Lợi ích thu được từ việc sử dụng thương mại điện tử là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: Bạn có thể so sánh giá cả từ các công ty khác nhau.
+Các tư thế đặt tay lên bàn phím nào sau đây là đúng để đảm bảo sức khỏe và tư thế ngồi làm việc thoải mái cho người lao động? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: AB
+Khi gặp lỗi hiển thị tiếng Việt như trong hình, chọn một cách xử lý.
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi phông chữ
+Bạn cần nhập và thống kê thông tin tình trạng nhập xuất hàng hóa cho cửa hàng bán quần áo của mình, phần mềm nào sau đây sẽ hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Excel
+Khi bàn phím vật lý bị thiếu, bị liệt hay bị hỏng một số phím, bạn có thể khắc phục bằng cách kích hoạt chức năng bàn phím ảo (On-Screen Keyboard) của hệ điều hành. Hãy sắp xếp các thao tác sau để được thứ tự đúng các bước bật bàn phím ảo trên Windows 7:
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Nháy nút Start và chọn All Programs; 2. Vào Accessories; 3. Mở mục Ease of Access; 4. Chọn On-Screen Keyboard
+Hãy ghép nối các biểu tượng với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Đi đến trang tiếp theo;  - Quay trở lại trang Web trước đó;  - Tải lại trang Web đang xem

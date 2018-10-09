@@ -1,8 +1,35 @@
+<!DOCTYPE html>
 <html>
-	<head>
-		<title>Form đăng ký thành viên</title>
-	</head>
-	<body>
+<title>ĐĂNG KÝ THÀNH VIÊN</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/trangchu.css">
+<link rel="stylesheet" href="css/anh.css">
+<link rel="stylesheet" href="css/menu.css">
+<link rel="stylesheet" href="css/footer.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+</style>
+<body class="w3-light-grey">
+    <div id="menu">
+  <ul>
+    <div class="logo">
+
+    <a href="trangchu.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif" border="0" alt=" photo 28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif"></a>
+    </div>
+
+    <li><a href="trangchu.html">Trang chủ</a></li>
+    <li>  <a href="#tencacdiadiem">Địa điểm</a>
+
+    </li>
+    <li><a href="#lienhect">Liên hệ</a>
+
+    </li>
+    <li><a href="#">Hỏi đáp</a></li>
+    <li><a href="dangnhap.html">Đăng nhập</a></li>
+  </ul>
+</div>
+<body>
 		<?php
 		require_once("lib/connection.php");
 		if (isset($_POST["btn_submit"])) {
@@ -11,7 +38,7 @@
   			$password = $_POST["pass"];
  			 $name = $_POST["name"];
   			$email = $_POST["email"];
-  			$city= $_POST["city"];
+  			
   			//Kiểm tra điều kiện bắt buộc đối với các field không được bỏ trống
 			  if ($username == "" || $password == "" || $name == "" || $email == "") {
 				   echo "bạn vui lòng nhập đầy đủ thông tin";
@@ -29,17 +56,18 @@
 	    					password,
 	    					name,
 						    email
-						    city
+					
 	    					) VALUES (
 	    					'$username',
 	    					'$password',
 						    '$name',
 	    					'$email'
-	    					'city'
+	    					
 	    					)";
 					    // thực thi câu $sql với biến conn lấy từ file connection.php
    						mysqli_query($conn,$sql);
 				   		echo "chúc mừng bạn đã đăng ký thành công";
+				
 					}
 									    
 					
@@ -69,20 +97,24 @@
 			</tr>
 			
 		</table>
-		<tr>
-				<p>Thành phố</p>
-				<select name="city">
-                <option value="Hà Nội">Hà Nội</option>
-                <option value="Hồ Chí Minh">Hồ Chí Minh</option>
-                <option value="Đà Nẵng">Đà Nẵng</option>
-                <option value="Cần Thơ">Cần Thơ</option>
-                </select>
-               
-			</tr>
-		<tr>
+	
 				<td colspan="2" align="center"><input type="submit" name="btn_submit" value="Đăng ký"></td>
 		</tr>
  
 	</form>
+	  <!-- Footer -->
+<footer class="w3-padding-32 w3-black w3-center w3-margin-top">
+  <h5>Find Us On</h5>
+  <div class="w3-xlarge w3-padding-16">
+    <i class="fa fa-facebook-official w3-hover-opacity" ></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+
+  </div>
+  <p>Powered by <a href="https://plus.google.com/u/0/106974998444610829545" target="_blank" class="w3-hover-text-green">ntminhhieu98@gmail.com</a></p>
+</footer>
+
+	
 	</body>
+
+  
 	</html>

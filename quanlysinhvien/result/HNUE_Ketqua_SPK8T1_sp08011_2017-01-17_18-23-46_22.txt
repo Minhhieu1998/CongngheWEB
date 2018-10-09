@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị Ánh, Nga
+Điểm của thí sinh: 22
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 0
+Đáp án thí sinh: Repeat continuously
+Đánh dấu vào nút lệnh để xóa bảng khỏi văn bản.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Sâu máy tính (worm) khác với virus ở chỗ nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Sâu máy tính gây hại cho phần cứng còn virus gây hại cho phần mềm của hệ thống máy tính
+Hãy sắp xếp các bước để nhận được một qui trình tạo ra và thực hiện bài thuyết trình.
+Điểm đạt được: 0
+Đáp án thí sinh: 1. Xác định mục tiêu thuyết trình; 2. Thực hiện việc thuyết trình bằng một công cụ trình chiếu; 3. Thiết kế, biên tập nội dung các trang của bài thuyết trình; 4. Lưu và phân phát (publish) nội dung bài thuyết trình
+Những thiết bị nào sau đây là thiết bị xuất thông tin ra của máy tính? (Chọn 4)
+Điểm đạt được: 1
+Đáp án thí sinh: Màn hình; Màn hình cảm ứng; Máy in; Loa
+Hãy sắp xếp tên các vùng sau theo đúng thứ tự vị trí của nó trên hình:
+Điểm đạt được: 1
+Đáp án thí sinh: Vị trí 1 - Vùng chương trình được đánh dấu; Vị trí 2 - Các chương trình sử dụng gần đây; Vị trí 3 - Các thư mục hệ thống; Vị trí 4 - Hộp tìm kiếm
+Cách nào cho phép bạn tạo một trang chiếu mới có bố cục Two Content?
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, nháy chuột vào mũi tên bên dưới nút lệnh New Slide, chọn bố cục Two Content
+Những phần mềm nào cần cài đặt để thực hiện các công việc văn phòng như: Gửi nhận thư, soạn thảo văn bản, in, nghe nhạc, đọc báo?
+Điểm đạt được: 1
+Đáp án thí sinh: HĐH Windows, Word, Foxit, Google Chrome, Windows Media Player, Vietkey, Bkav Pro, Driver máy in
+WWW là viết tắt của cụm từ nào?
+Điểm đạt được: 1
+Đáp án thí sinh: World Wide Web
+Hãy nháy chuột vào đối tượng hộp kiểm tra (checkbox) trong biểu mẫu (form) dưới đây.
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Bạn cần nhập và thống kê thông tin tình trạng nhập xuất hàng hóa cho cửa hàng bán quần áo của mình, phần mềm nào sau đây sẽ hỗ trợ tốt nhất cho bạn?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Excel
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Đi đến trang Web tiếp theo
+Tổ hợp phím nào sau đây được sử dụng để đóng cửa sổ?
+Điểm đạt được: 1
+Đáp án thí sinh: Alt + Spacebar + C
+Bạn là một giáo viên, bạn đang cần soạn thư mời phụ huynh học sinh đến dự buổi họp phụ huynh đầu năm học, phần mềm nào sau đây bạn nên chọn để thực hiện công việc này?
+Điểm đạt được: 1
+Đáp án thí sinh: Microsoft Office Word
+Nếu bạn muốn thêm, xóa hoặc thay đổi một phần nội dung của ô, bạn cần kích hoạt chế độ chỉnh sửa của Excel bằng cách nào? (2 cách)
+Điểm đạt được: 0
+Đáp án thí sinh: Nháy đúp chuột vào ô
+Theo bạn dòng hệ điều hành nào sau đây được sử dụng phổ biến nhất cho loại máy tính để bàn và máy tính xách tay hiện nay?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Hãy ghép nối các biểu tượng với ý nghĩa tương ứng:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Đi đến trang tiếp theo;  - Quay trở lại trang Web trước đó;  - Tải lại trang Web đang xem
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12
+Thế nào là một ô tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Giao của một cột và một hàng.
+Trong hầu hết các máy tính cá nhân, CPU, các bộ nhớ và các thành phần khác được cắm trên cùng một bảng mạch duy nhất. Bảng mạch đó được gọi là gì?
+Điểm đạt được: 0
+Đáp án thí sinh: CASE máy tính
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Cho biết các chức năng chính của phần mềm bảng tính excel?
+Điểm đạt được: 1
+Đáp án thí sinh: Thực hiện các phép tính, phân tích giả định “nếu – thì”, biểu diễn dữ liệu bằng biểu đồ, hiển thị sơ đồ, hình ảnh; cung cấp khả năng sắp xếp, tìm kiếm và lọc thông tin.
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Sắp xếp các khái niệm sau tăng dần theo quan hệ bao hàm.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Ký tự (Character); 2. Từ (Word); 3. Dòng (Line); 4. Đoạn (Paragraph); 5. Trang (Page)
+Để hiển thị trình đơn tắt (Shortcut menu) của một mục chọn bạn trỏ con trỏ chuột vào mục chọn đó và nhấn vào phím nào trong các phím sau đây trên bàn phím:
+Điểm đạt được: 0
+Đáp án thí sinh: Rectangle 1 - Chưa chọn
+Giao thức nào sau đây được dùng chủ yếu trên Internet?
+Điểm đạt được: 1
+Đáp án thí sinh: TCP/IP
+Để điều chỉnh âm lượng hệ thống bạn sẽ nhấy chuột vào vị trí nào sau đây trên vùng thông báo (Notification area)
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng

@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Vũ Thị, Ngọc
+Điểm của thí sinh: 27
+Để bắt đầu một bài trình chiếu từ slide đầu tiên, bạn sử dụng phím nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: F5
+Dữ liệu ngày tháng được nhập theo kiểu tháng/ ngày/ năm. Hãy sắp xếp các thao tác sau đây thành quy trình đúng để chỉnh dữ liệu lại thành ngày/ tháng/ năm (với 2 chữ số cho ngày, 2 chữ số cho tháng và 4 chữ số cho năm).
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Lựa chọn những ô dữ liệu cần định dạng; 2. Nháy chuột phải chọn Format Cells…; 3. Trong thẻ Number chọn Custom; 4. Nhập dd/mm/yyyy tại ô Type; 5. Nháy chọn OK
+Tại sao bạn muốn tạo chữ ký trong thư điện tử?
+Điểm đạt được: 0
+Đáp án thí sinh: Vì bạn không cần tạo hình ảnh của chữ ký viết tay mỗi lần gửi bản tin
+Một giá trị số có thể được coi là giá trị văn bản nếu có ký hiệu gì đứng trước?
+Điểm đạt được: 1
+Đáp án thí sinh: Dấu '
+Khi mở văn bản, bạn không thể đọc vì lỗi như trong hình. Nguyên nhân có thể là. (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Không có phông chữ tương ứng trong bộ phông của hệ thống; Bảng mã và phông chữ không tương thích khi soạn thảo
+Biểu tượng hình sao  trên trình duyệt Web dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Thêm các trang yêu thích
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: thương mại điện tử
+Quan sát hình ảnh dưới đây về cửa sổ làm việc của phần mềm bảng tính Powerpoint. Hãy ghép nối các vị trí được đánh dấu theo đúng tên gọi của nó.
+Điểm đạt được: 1
+Đáp án thí sinh: 1 - Thanh dải lệnh (Ribbon); 2 - Thẻ Slides; 3 - Khung soạn thảo; 4 - Vùng ghi chú
+Hãy ghép nối các đối tượng với tên tương ứng.
+Điểm đạt được: 1
+Đáp án thí sinh:  - Hộp nhập văn bản nhiều dòng (text area);  - Hộp danh sách (list box);  - Nút lệnh (button);  - Hộp kiểm tra (check box)
+Chương trình nào sau đây cung cấp các dịch vụ theo yêu cầu của các chương trình khác trong quá trình hoạt động của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: Windows
+Trong hầu hết các máy tính cá nhân, CPU, các bộ nhớ và các thành phần khác được cắm trên cùng một bảng mạch duy nhất. Bảng mạch đó được gọi là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bo mạch chủ
+Sử dụng một phần mềm bảng tính để thực hiện các thao tác nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Nhập, cập nhật, biên tập dữ liệu; áp dụng các phép tính, công thức, các hàm; xây dựng biểu đồ; in kết quả; trao đổi với các ứng dụng khác.
+Hãy nối tên trang web với thể loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/ - Mạng xã hội; http://vnexpress.net/ - Báo điện tử; http://www.chuyensp.edu.vn/ - Trang tin điện tử nội bộ; https://www.barackobama.com/ - Trang tin điện tử cá nhân
+Để áp dụng một chủ đề hoặc tùy biến các chủ đề hiển thị màn hình nền bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Excel cung cấp những công cụ kiểm tra nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Spelling, Grammar, Thesaurus
+Phát biểu nào sau đây về trang chủ là đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Là trang được hiển thị mặc định khi truy cập vào Website trên trình duyệt
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Sắp xếp các bước để thực hiện sao chép một tệp tin/thư mục
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Copy To Folder; 4. Trong hộp thoại Copy Items, chọn thư mục đích, nháy chuột vào nút lệnh Copy
+Biểu tượng mũi tên trên các trình duyệt Web như ở hình bên dùng để làm gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Quay trở lại trang Web trước đó
+Khung nhìn nào hiển thị các cột của văn bản thành một cột, cho phép bạn tập trung vào chỉnh sửa chữ thay vì bố cục?
+Điểm đạt được: 0
+Đáp án thí sinh: Normal
+Phát biểu nào sau đây đúng về Internet và WWW? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: WWW là một phần của Internet; Internet được tạo ra trước WWW; Internet là mạng toàn cầu, WWW là một hệ thống các tài liệu được liên kết với nhau và có thể truy xuất được trên mạng Internet
+Hãy lựa chọn tên các trang mạng xã hội trong danh sách các website sau đây? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: https://www.facebook.com/; https://twitter.com
+Khi làm việc với máy tính lâu bạn nên làm gì để giảm căng thẳng, đau đầu, nhức mắt? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Đứng lên nghỉ giải lao 5 phút sau mỗi giờ làm việc; Tập nhìn xa để đỡ mỏi mắt; Điều chỉnh độ phân giải màn hình cho cỡ chữ và biểu tượng trở nên dễ nhìn hơn
+Phần mềm nén tệp sử dụng để làm gì?:
+Điểm đạt được: 1
+Đáp án thí sinh: Giảm dung lượng tệp tin
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: In line with text
+Lựa chọn nào sau đây để thay đổi bố cục một trang chiếu? (chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Trên thẻ Home, trong nhóm Slides, chọn nút lệnh Layout; Nháy chuột phải vào trang chiếu trong thẻ Slides hoặc trong khung Slide và sau đó chọn nút lệnh Layout.
+Để hiển thị nhanh màn hình nền desktop bạn nháy chuột vào vị trí nào trên thanh tác vụ?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Hãy điền từ còn thiếu vào chỗ trống bằng cách kéo thả từ đó vào đúng vị trí:
+Điểm đạt được: 1
+Đáp án thí sinh: từ F1 đến F12

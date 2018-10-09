@@ -1,0 +1,93 @@
+Mã đề thi: SPK8T1
+Thí sinh: Nguyễn Thị Bích, Thảo
+Điểm của thí sinh: 27
+Những đặc điểm nào sau đây thường được coi là nhược điểm của thương mại điện tử? (Chọn 2)
+Điểm đạt được: 1
+Đáp án thí sinh: Khả năng truyền thông quảng cáo sản phẩm khó khăn và tốn kém hơn so với bán hàng truyền thống; Khách hàng có thể mua phải những sản phẩm không mong đợi
+Phương  thức  nào  là  thời  gian  thực,  dựa  trên  thông  tin  văn  bản  giữa  hai  hoặc  nhiều người tham gia sử dụng Internet.
+Điểm đạt được: 1
+Đáp án thí sinh: Tin nhắn tức thời
+Sâu máy tính (worm) khác với virus ở chỗ nào?
+Điểm đạt được: 0
+Đáp án thí sinh: Sâu máy tính gây hại cho phần cứng còn virus gây hại cho phần mềm của hệ thống máy tính
+Hãy cho biết các cách thức đặt tay sử dụng con chuột nào sau đây là đúng cách? (Có thể chọn một hoặc nhiều tư thế, ví dụ A, AB, ABC,…)
+Điểm đạt được: 1
+Đáp án thí sinh: BC
+Phát biểu nào sau đây là định nghĩa chính xác nhất về chính phủ điện tử?
+Điểm đạt được: 1
+Đáp án thí sinh: Chính phủ điện tử là chính phủ ứng dụng Công nghệ thông tin và Truyền thông để đổi mới tổ chức, đổi mới quy tắc hoạt động, tăng cường năng lực hoạt động của chính phủ.
+Trong các phát biểu sau đây, phát biểu nào đúng?
+Điểm đạt được: 1
+Đáp án thí sinh: Có thể tạo ra các thư mục mới hoặc tệp tin mới ngay trên mà hình nền
+Sắp xếp các bước để thực hiện sao chép một tệp tin/thư mục
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Copy To Folder; 4. Trong hộp thoại Copy Items, chọn thư mục đích, nháy chuột vào nút lệnh Copy
+Bạn hãy cho biết tên của một loại bộ nhớ chính có các đặc điểm sau đây: dữ liệu trong nó được tồn tại chỉ khi nào máy tính còn bật nguồn, khi máy tính tắt nguồn dữ liệu trong nó cũng mất đi, dung lượng của nó ảnh hưởng rất lớn tới tôc độ và hiệu năng của máy tính?
+Điểm đạt được: 1
+Đáp án thí sinh: RAM
+Hãy sắp xếp thứ tự các bước cần thực hiện để thiết lập trang chủ.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Trong danh mục các tùy chọn điều khiển và chỉnh sửa của Google Chrome chọn thẻ Setting; 2. Trong nhóm Appearance chọn Show Home button để hiện thị nút home; 3. Nháy chuột chọn Change để mở hộp thoại Home page; 4. Trong hộp thoại Home page, chọn Open this page và nhập địa chỉ trang muốn thiết lập làm trang chủ; 5. Nhấn nút OK để chấp nhận thiết lập
+Tên miền có đuôi .edu thuộc nhóm tên miền nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Các trang Web giáo dục
+Sắp xếp các bước để thực hiện di chuyển một tệp tin/thư mục.
+Điểm đạt được: 1
+Đáp án thí sinh: 1. Chọn tệp tin/thư mục; 2. Nháy chuột vào thẻ Edit trên thanh bảng chọn; 3. Nháy chuột vào lệnh Move To Folder; 4. Trong hộp thoại Move Items, chọn thư mục đích và nháy chuột vào nút lệnh Move
+Nháy chuột vào nhóm các lệnh căn lề cho dữ liệu trong ô văn bản trong hình sau.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Trên màn hình làm  việc của Google Chrome, hãy nháy chuột vào biểu tượng cho phép thêm trang Web đang xem vào danh sách các trang Web ưa thích.
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Nháy chọn vào trình đơn nào trong danh sách các trình đơn trong hình để thiết lập trang chủ của Google Chrome
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Để tùy áp dụng nguyên tắc phối hợp âm thanh cụ thể cho chủ đề hiển thị của màn hình nền, bạn sẽ nháy chuột vào vị trí nào trong hình dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Cho biết các chức năng chính của phần mềm bảng tính excel?
+Điểm đạt được: 1
+Đáp án thí sinh: Thực hiện các phép tính, phân tích giả định “nếu – thì”, biểu diễn dữ liệu bằng biểu đồ, hiển thị sơ đồ, hình ảnh; cung cấp khả năng sắp xếp, tìm kiếm và lọc thông tin.
+Hãy ghép nối tên loại sao lưu dữ liệu và đặc điểm của nó:
+Điểm đạt được: 1
+Đáp án thí sinh: Sao lưu bên ngoài - Bản sao dữ liệu được lưu vào ổ cứng gắn ngoài hoặc phương tiện quang học có kích cỡ đủ để lưu trữ dữ liệu; Sao lưu trực tuyến - Dữ liệu được lưu trữ vào một vị trí từ xa trên mạng hoặc má chủ; Sao lưu đám mây - Dữ liệu được lưu trữ vào một vị trí của đám may ví dụ như Microsoft SkyDrive
+Khi chuẩn bị một bài thuyết trình, ngoài yếu tố mục tiêu của bài thuyết trình, bạn cần chú ý đến các yếu tố nào khác? (chọn 3)
+Điểm đạt được: 0
+Đáp án thí sinh: Thời điểm và địa điểm diễn ra thuyết trình; Độ dài của bài thuyết trình; Sử dụng phương tiện hỗ trợ: máy tính sách tay hay thiết bị khác
+Hãy nháy chọn nút lệnh cho phép bạn quan sát tất cả các slides?
+Điểm đạt được: 1
+Đáp án thí sinh: Rectangle 1 - Đúng
+Lợi ích thu được từ việc sử dụng thương mại điện tử là gì?
+Điểm đạt được: 1
+Đáp án thí sinh: Bạn có thể mua sắm 24 giờ một ngày, 365 ngày một năm.
+Trong hình minh họa, ảnh được xen vào phần văn bản theo kiểu nào?
+Điểm đạt được: 1
+Đáp án thí sinh: Behind text
+Xác định các loại định dạng có trong văn bản dưới đây:
+Điểm đạt được: 1
+Đáp án thí sinh: Đoạn văn bản được căn lề đều hai bên, tên công ty được in đậm và viết chữ hoa loại nhỏ
+Hãy nối hình ảnh biểu tượng và tên loại tương ứng của nó:
+Điểm đạt được: 1
+Đáp án thí sinh:  - Biểu tượng ổ đĩa chứa chương trình hệ điều hành Windows;  - Biểu tượng ổ đĩa chứa dữ liệu;  - Biểu tượng thùng rác;  - Biểu tượng thư mục
+Tùy chọn nào dưới đây được chọn để thiết lập trình chiếu lặp lại liên tục?
+Điểm đạt được: 0
+Đáp án thí sinh: Repeat continuously
+Hãy kéo thả đáp án vào chỗ trống để hoàn thành phát biểu sau:
+Điểm đạt được: 1
+Đáp án thí sinh: đánh dấu trang yêu thích
+Bạn cần một phần mềm lưu trữ thông tin về sản phẩm, khách hàng và các giao dịch mua bán cho công ty của bạn, để truy xuất và đưa ra các quyết định quản lý phù hợp, bạn nên lựa chọn loại phần mềm nào sau đây?
+Điểm đạt được: 1
+Đáp án thí sinh: Phần mềm quản lý cơ sở dữ liệu
+Làm thế nào để nhận biết một biểu tượng đường  tắt (Shortcut) trên Windows?
+Điểm đạt được: 1
+Đáp án thí sinh: Biểu tượng đường tắt có mũi tên ở góc dưới bên tay trái
+Hàm nào sau đây được sử dụng để tìm số lớn nhất trong một dãy số?
+Điểm đạt được: 1
+Đáp án thí sinh: =MAX(B1:B5)
+BHYT (Bảo hiểm y tế) được tính bằng 10% của lương và phụ cấp. Công thức nào bạn sẽ sử dụng tại ô E4 để tính giá trị cho cột BHYT?
+Điểm đạt được: 1
+Đáp án thí sinh: =10%*(C4+D4)
+Trên màn hình có những chỗ bị chói nên rất khó nhìn được rõ các chữ ở đó. Để khắc phục sự cố này, người sử dụng máy tính nên áp dụng các biện pháp nào sau đây? (Chọn 3)
+Điểm đạt được: 1
+Đáp án thí sinh: Thay đổi vị trí nguồn sáng gây ra hiện tượng chói; Treo rèm, màn che cửa sổ; Sử dụng màn hình chống chói
