@@ -29,8 +29,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <li><a href="#lienhect">Bảng tin</a>
 
     </li>
-    <li><a href="register.php">Đăng ký thành viên</a></li>
-    <li><a href="login.php">Đăng nhập</a></li>
+    <li><a href="logout.php">Đăng xuất</a></li>
   </ul>
 </div>
 <!-- Header -->

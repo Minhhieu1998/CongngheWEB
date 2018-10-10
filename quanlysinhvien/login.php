@@ -35,7 +35,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
     </li>
     <li><a href="#">Hỏi đáp</a></li>
-    <li><a href="dangnhap.html">Đăng nhập</a></li>
+    <li><a href="register.php">Đăng ký thành viên</a></li>
   </ul>
 
 </div><body>
@@ -78,7 +78,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 ?>
 	<form method="POST" action="login.php">
 
-		<h1>GIÁO SƯ ĐĂNG NHẬP THÔI</h1>
+		
 	<fieldset>
 	    <legend>ĐĂNG NHẬP</legend>
 	    	<table>
@@ -110,15 +110,14 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 </body>
   <!-- Footer -->
-<footer class="w3-padding-32 w3-black w3-center w3-margin-top">
-  <h5>Find Us On</h5>
-  <div class="w3-xlarge w3-padding-16">
-    <i class="fa fa-facebook-official w3-hover-opacity" ></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-
-  </div>
-  <p>Powered by <a href="https://plus.google.com/u/0/106974998444610829545" target="_blank" class="w3-hover-text-green">ntminhhieu98@gmail.com</a></p>
-</footer>
+<div id="footer">
+    <div class="container">
+        <p>LIÊN HỆ: 0987654321</p><br>
+        
+        
+        <p><a href="ntminhhieu98@gmail.com">Email:ntminhhieu98@gmail.com</a></p>
+    </div>
+</div>
 
 
 </html>

@@ -18,15 +18,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
     <a href="trangchu.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif" border="0" alt=" photo 28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif"></a>
     </div>
 
-    <li><a href="trangchu.html">Trang chủ</a></li>
-    <li>  <a href="#tencacdiadiem">Địa điểm</a>
+    <li><a href="header.php">Trang chủ</a></li>
+  
 
     </li>
     <li><a href="#lienhect">Liên hệ</a>
 
     </li>
     <li><a href="#">Hỏi đáp</a></li>
-    <li><a href="dangnhap.html">Đăng nhập</a></li>
+    <li><a href="login.php">Đăng nhập</a></li>
   </ul>
 </div>
 <body>
@@ -75,6 +75,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 	}
 	?>
 	<form action="register.php" method="post">
+	<fieldset>
+		<legend> ĐĂNG KÝ THÀNH VIÊN</legend>
 		<table>
 			<tr>
 				<td colspan="2">Form đăng ký</td>
@@ -95,23 +97,27 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 				<td>Email :</td>
 				<td><input type="text" id="email" name="email"></td>
 			</tr>
-			
-		</table>
+			<tr>
+				
 	
 				<td colspan="2" align="center"><input type="submit" name="btn_submit" value="Đăng ký"></td>
-		</tr>
- 
+			</tr>
+			
+		</table>
+	</fieldset>
+		
+	
+	
 	</form>
-	  <!-- Footer -->
-<footer class="w3-padding-32 w3-black w3-center w3-margin-top">
-  <h5>Find Us On</h5>
-  <div class="w3-xlarge w3-padding-16">
-    <i class="fa fa-facebook-official w3-hover-opacity" ></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-
-  </div>
-  <p>Powered by <a href="https://plus.google.com/u/0/106974998444610829545" target="_blank" class="w3-hover-text-green">ntminhhieu98@gmail.com</a></p>
-</footer>
+  <!-- Footer -->
+<div id="footer">
+    <div class="container">
+        <p>LIÊN HỆ: 0987654321</p><br>
+        
+        
+        <p><a href="ntminhhieu98@gmail.com">Email:ntminhhieu98@gmail.com</a></p>
+    </div>
+</div>
 
 	
 	</body>
