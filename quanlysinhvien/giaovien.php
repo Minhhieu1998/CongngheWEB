@@ -54,10 +54,11 @@
                          <li><a href="#feature" class="smoothScroll">Điểm danh/Điểm sinh viên</a></li>
                          <li><a href="#about" class="smoothScroll">Tin tức</a></li>
                          <li><a href="#pricing" class="smoothScroll">Môn học</a></li>
-                         <li><a href="#contact" class="smoothScroll">Phản hồi</a></li>
+
+                       
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                         <li><a href="login.php" class="smoothScroll">Đăng nhập</a></li>
+                         <li><a href="login.php" class="smoothScroll">Đăng xuất</a></li>
                     </ul>
                </div>
 
@@ -100,7 +101,7 @@
                          <ul class="nav nav-tabs" role="tablist">
                               <li class="active"><a href="#tab01" aria-controls="tab01" role="tab" data-toggle="tab">Điểm danh sinh viên</a></li>
 
-                              <li><a href="#tab02" aria-controls="tab02" role="tab" data-toggle="tab">Xem điểm</a></li>
+                              <li><a href="#tab02" aria-controls="tab02" role="tab" data-toggle="tab">Điểm sinh viên</a></li>
 
                             
                          </ul>
@@ -108,24 +109,37 @@
                          <div class="tab-content">
                               <div class="tab-pane active" id="tab01" role="tabpanel">
                                    <div class="tab-pane-item">
-                                        <h2>Điểm danh</h2>
-                                        <p>Sinh viên đi học sẽ được điểm danh và đánh giá thái độ học tập tại đây.</p>
+                                        <a href=""><h2>Lớp 58HT</h2></a>
+                                        <p>Điểm danh lớp 58HT.</p>
+                                   </div>
+                                     <div class="tab-pane-item">
+                                        <a href=""><h2>Lớp 58PM</h2></a>
+                                        <p>Điểm danh lớp 58HT.</p>
                                    </div>
                                    <div class="tab-pane-item">
-                                        <a href="login.php"><h2>Login</h2></a>
-                                        <p>Sinh viên cần đăng nhập để có thể xem được.</p>
+                                        <a href=""><h2>Lớp 58TH1</h2></a>
+                                        <p>Điểm danh lớp 58HT.</p>
+                                  </div>
+                                  <div class="tab-pane-item">
+                                        <a href=""><h2>Lớp 58TH2</h2></a>
+                                        <p>Điểm danh lớp 58HT.</p>
                                    </div>
+                               <div class="tab-pane-item">
+                                        <a href=""><h2>Lớp 58TH3</h2></a>
+                                        <p>Điểm danh lớp 58HT.</p>
+                                   </div>
+
                               </div>
 
 
                               <div class="tab-pane" id="tab02" role="tabpanel">
                                    <div class="tab-pane-item">
-                                        <h2>Điểm quá trình</h2>
-                                        <p>Điểm quá trình sẽ được public trên hệ thống.</p>
+                                        <h2>Tải lên</h2>
+                                        <a href=""><p>Điểm quá trình </p></a>
                                    </div>
                                    <div class="tab-pane-item">
-                                        <h2>Điểm thi</h2>
-                                        <p>Điểm thi sẽ được public trên hệ thống.</p>
+                                        <h2>Tải lên</h2>
+                                        <a href=""><p>Điểm thi</p></a>
                                    </div>
                               </div>
 
@@ -209,7 +223,7 @@
                          <div class="testimonial-info">
                               
                               <div class="section-title">
-                                   <h1>What People Say</h1>
+                                   <h1> QUẢN LÝ</h1>
                               </div>
 
                               <div class="owl-carousel owl-theme">
@@ -217,7 +231,7 @@
                                         <h3>Vestibulum tempor facilisis efficitur. Sed nec nisi sit amet nibh pellentesque elementum. In viverra ipsum ornare sapien rhoncus ullamcorper.</h3>
                                         <div class="testimonial-item">
                                              <img src="images/tst-image1.jpg" class="img-responsive" alt="Michael">
-                                             <h4>Michael</h4>
+                                             <h4></h4>
                                         </div>
                                    </div>
 
@@ -253,44 +267,22 @@
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
-                              <h1>Một số khóa học cho bạn</h1>
+                              <h1>QUẢN LÝ</h1>
                          </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6">
                          <div class="pricing-thumb">
                              <div class="pricing-title">
-                                  <h2>Lập trình web</h2>
+                                  <h2>Upload điểm sinh viên</h2>
                              </div>
                              <div class="pricing-info">
-                                   <p>Làm thế nào để tạo 1 trang web?</p>
-                                   <p>Giới thiệu HTML5 và CSS3</p>
-                                   <p>Bootraps và Js</p>
-                                   <p>20 buổi/1 khóa</p>
-                                   <p>2h/1 buổi</p>
+                                   <p>Tải lên file exel</p>
+                                  
                              </div>
                              <div class="pricing-bottom">
-                                   <span class="pricing-dollar">500k/1 khóa</span>
-                                   <a href="#" class="section-btn pricing-btn">Đăng ký </a>
-                             </div>
-                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                         <div class="pricing-thumb">
-                             <div class="pricing-title">
-                                  <h2>Business</h2>
-                             </div>
-                             <div class="pricing-info">
-                                   <p>50 Responsive Designs</p>
-                                   <p>30 Dashboards</p>
-                                   <p>2 TB Storage</p>
-                                   <p>12 TB Bandwidth</p>
-                                   <p>15-minute Support</p>
-                             </div>
-                             <div class="pricing-bottom">
-                                   <span class="pricing-dollar">$350/mo</span>
-                                   <a href="#" class="section-btn pricing-btn">Register now</a>
+                                  
+                                   <a href="#" class="section-btn pricing-btn">Upload</a>
                              </div>
                          </div>
                     </div>
@@ -298,18 +290,32 @@
                     <div class="col-md-4 col-sm-6">
                          <div class="pricing-thumb">
                              <div class="pricing-title">
-                                  <h2>Professional</h2>
+                                  <h2>Thêm bài viết</h2>
                              </div>
                              <div class="pricing-info">
-                                   <p>100 Responsive Designs</p>
-                                   <p>60 Dashboards</p>
-                                   <p>5 TB Storage</p>
-                                   <p>25 TB Bandwidth</p>
-                                   <p>1-minute Support</p>
+                                   <p>Tải lên bài viết mới</p>
+                                  
+                                  
                              </div>
                              <div class="pricing-bottom">
-                                   <span class="pricing-dollar">$550/mo</span>
-                                   <a href="#" class="section-btn pricing-btn">Register now</a>
+                                  
+                                   <a href="../admin/them-bai-viet.php" class="section-btn pricing-btn">Upload</a>
+                             </div>
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="pricing-thumb">
+                             <div class="pricing-title">
+                                  <h2>Thêm lớp</h2>
+                             </div>
+                             <div class="pricing-info">
+                                   <p>Tạo danh sách lóp mới</p>
+                                  
+                             </div>
+                             <div class="pricing-bottom">
+                                  
+                                   <a href="#" class="section-btn pricing-btn">Tạo</a>
                              </div>
                          </div>
                     </div>
@@ -319,69 +325,6 @@
      </section>   
 
 
-     <!-- CONTACT -->
-     <section id="contact" data-stellar-background-ratio="0.5">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-md-offset-1 col-md-10 col-sm-12">
-                         <form id="contact-form" role="form" action="" method="post">
-                              <div class="section-title">
-                                   <h1>Phản hồi</h1>
-                              </div>
-
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="text" class="form-control" placeholder="Full name" name="name" required="">
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="email" class="form-control" placeholder="Email address" name="email" required="">
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="submit" class="form-control" name="send message" value="Gửi phản hồi">
-                              </div>
-                              <div class="col-md-12 col-sm-12">
-                                   <textarea class="form-control" rows="8" placeholder="Your message" name="message" required=""></textarea>
-                              </div>
-                         </form>
-                    </div>
-
-               </div>
-          </div>
-     </section>       
 
 
-     <!-- FOOTER -->
-     <footer id="footer" data-stellar-background-ratio="0.5">
-          <div class="container">
-               <div class="row">
-
-                    <div class="copyright-text col-md-12 col-sm-12">
-                         <div class="col-md-6 col-sm-6">
-                              <p>Copyright &copy; 2018 Company Name - Design:
-                				<a rel="nofollow" href="http://tooplate.com">Tooplate</a></p>
-                         </div>
-
-                         <div class="col-md-6 col-sm-6">
-                              <ul class="social-icon">
-                                   <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
-                                   <li><a href="#" class="fa fa-twitter"></a></li>
-                                   <li><a href="#" class="fa fa-instagram"></a></li>
-                              </ul>
-                         </div>
-                    </div>
-
-               </div>
-          </div>
-     </footer>
-
-
-     <!-- SCRIPTS -->
-     <script src="js/jquery.js"></script>
-     <script src="js/bootstrap.min.js"></script>
-     <script src="js/jquery.stellar.min.js"></script>
-     <script src="js/owl.carousel.min.js"></script>
-     <script src="js/smoothscroll.js"></script>
-     <script src="js/custom.js"></script>
-
-</body>
-</html>
+<?php include "footer.php"?>

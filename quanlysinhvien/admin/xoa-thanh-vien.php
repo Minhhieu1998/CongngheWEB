@@ -9,7 +9,7 @@ if (isset($_GET["id"])) {
 	$sql = "delete from users where id = $id";
 	$query = mysqli_query($conn, $sql);
 	//Chuyển hướng trang web về lại trang quan-ly-thanh-vien.php
-	header('Location: quanlythanhvien.php');
+	header('Location: quan-ly-thanh-vien.php');
 }
  
  

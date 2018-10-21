@@ -2,86 +2,130 @@
 session_start();
 ?>
 <!DOCTYPE html>
-<html>
-<title>TRANG ĐĂNG NHẬP</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/trangchu.css">
-<link rel="stylesheet" href="css/anh.css">
-<link rel="stylesheet" href="css/menu.css">
-<link rel="stylesheet" href="css/footer.css">
-<div id="container">
-   <div id="header"></div>
-   <div id="body"></div>
-   <div id="footer"></div>
-</div>
+<html lang="en">
+<head>
 
-<style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
-</style>
-<body class="w3-light-grey">
-    <div id="menu">
-  <ul>
-    <div class="logo">
-
-    <a href="trangchu.html" target="_blank"><img src="http://i1331.photobucket.com/albums/w589/sontugn/28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif" border="0" alt=" photo 28501889_907787762727802_6015026664969338880_n_zpskfgz3fjw.gif"></a>
-    </div>
-
-    <li><a href="trangchu.html">Trang chủ</a></li>
-  
-
-    </li>
-    <li><a href="#lienhect">Liên hệ</a>
-
-    </li>
-    <li><a href="#">Hỏi đáp</a></li>
-    <li><a href="register.php">Đăng ký thành viên</a></li>
-  </ul>
-
-</div><body>
+	<title>ĐĂNG NHẬP</title>
 	
-<?php
-	
-	require_once("lib/connection.php");
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
+     <meta name="team" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/owl.carousel.css">
+     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="css/tooplate-style.css">
+
+</head>
+<body>
+
+     <!-- PRE LOADER -->
+     <section class="preloader">
+          <div class="spinner">
+
+               <span class="spinner-rotate"></span>
+               
+          </div>
+     </section>
+
+
+     <!-- MENU -->
+     <section class="navbar custom-navbar navbar-fixed-top" role="navigation">
+          <div class="container">
+
+               <div class="navbar-header">
+                    <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                    </button>
+
+                    <!-- lOGO TEXT HERE -->
+                    <a href="index.html" class="navbar-brand">0ThichHoc</a>
+               </div>
+
+               <!-- MENU LINKS -->
+               <div class="collapse navbar-collapse">
+               	  <ul class="nav navbar-nav">
+                         <li><a href="#home" class="smoothScroll">Trang chủ</a></li>
+                         <li><a href="#feature" class="smoothScroll">Giới thiệu</a></li>
+                        
+                    </ul>
+
+                  
+                    <ul class="nav navbar-nav navbar-right">
+                         <li><a href="register.php" class="smoothScroll">Đăng ký</a></li>
+                    </ul>
+               </div>
+
+          </div>
+     </section>
+
+
+ <!-- FEATURE -->
+     <section id="home" data-stellar-background-ratio="0.5">
+          <div class="overlay"></div>
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-offset-3 col-md-6 col-sm-12">
+                         <div class="home-info">
+                             
+<?php 
+//Gọi file connection.php ở bài trước
+require_once("lib/connection.php");
 	// Kiểm tra nếu người dùng đã ân nút đăng nhập thì mới xử lý
-	if (isset($_POST["btn_submit"])) {
-		// lấy thông tin người dùng
-		$username = $_POST["username"];
-		$password = $_POST["password"];
-		//làm sạch thông tin, xóa bỏ các tag html, ký tự đặc biệt 
-		//mà người dùng cố tình thêm vào để tấn công theo phương thức sql injection
-		$username = strip_tags($username);
-		$username = addslashes($username);
-		$password = strip_tags($password);
-		$password = addslashes($password);
-			
-		if ($username == "" || $password =="") {
-			echo "username hoặc password bạn không được để trống!";
+if (isset($_POST["btn_submit"])) {
+	// lấy thông tin người dùng
+	$username = $_POST["username"];
+	$password = $_POST["password"];
+	//làm sạch thông tin, xóa bỏ các tag html, ký tự đặc biệt 
+	//mà người dùng cố tình thêm vào để tấn công theo phương thức sql injection
+	$username = strip_tags($username);
+	$username = addslashes($username);
+	$password = strip_tags($password);
+	$password = addslashes($password);
+	if ($username == "" || $password =="") {
+		echo "username hoặc password bạn không được để trống!";
+	}else{
+		$sql = "select * from users where username = '$username' and password = '$password' ";
+		$query = mysqli_query($conn,$sql);
+		$num_rows = mysqli_num_rows($query);
+		if ($num_rows==0) {
+			echo "tên đăng nhập hoặc mật khẩu không đúng !";
 		}else{
-			$sql = "select * from users where username = '$username' and password = '$password' ";
-			$query = mysqli_query($conn,$sql);
-			$num_rows = mysqli_num_rows($query);
-			if ($num_rows==0) {
-				echo "tên đăng nhập hoặc mật khẩu không đúng !";
-
-			}else{
-				//tiến hành lưu tên đăng nhập vào session để tiện xử lý sau này
-				$_SESSION['username'] = $username;
+			// Lấy ra thông tin người dùng và lưu vào session
+			while ( $data = mysqli_fetch_array($query) ) {
+	    		$_SESSION["user_id"] = $data["id"];
+				$_SESSION['username'] = $data["username"];
+				$_SESSION["email"] = $data["email"];
+				$_SESSION["fullname"] = $data["fullname"];
+				$_SESSION["is_block"] = $data["is_block"];
+				$_SESSION["permision"] = $data["permision"];
+	    	}
+			
                 // Thực thi hành động sau khi lưu thông tin vào session
-                
-                
-                header('Location: header.php');
-			}
+                // ở đây mình tiến hành chuyển hướng trang web tới một trang gọi là index.php
+			header('Location: index.php');
 		}
-	
 	}
+	if($_SESSION['permision']=="0")
+   header("location:sinhvien.php");
+else header("location:giaovien.php"); 
+}
 ?>
 	<form method="POST" action="login.php">
 
 		
-	<fieldset>
-	    <legend>ĐĂNG NHẬP</legend>
-	    	<table>
+	<fieldset style="background-color: grey;">
+	    <legend style="height: 40px;background-color: grey;">ĐĂNG NHẬP</legend>
+	    	<table style="margin-left: 100px;">
 	    		<tr>
 	    			<td>Username</td>
 	    			<td><input type="text" name="username" size="30"></td>
@@ -96,7 +140,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 	    		
 	    	</table>
-	    		 <div>
+	    		 <div style="margin-bottom: 30px;">
 	    			Bạn chưa có tài khoản?
 	    			<a href="register.php" target="_blank"><input type="button" value="Đăng ký" class="button"  ></a>
 	            </div>
@@ -106,18 +150,77 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
  
 	    	  
   </form>
+
+                         </div>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+     <!-- FEATURE -->
+     <section id="feature" data-stellar-background-ratio="0.5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-12 col-sm-12">
+                         <div class="section-title">
+                              <h1>Khoa CNTT-ĐHTL</h1>
+                         </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6">
+                         <ul class="nav nav-tabs" role="tablist">
+                              <li class="active"><a href="#tab01" aria-controls="tab01" role="tab" data-toggle="tab">Điểm danh sinh viên</a></li>
+
+                              <li><a href="#tab02" aria-controls="tab02" role="tab" data-toggle="tab">Xem điểm</a></li>
+
+                            
+                         </ul>
+
+                         <div class="tab-content">
+                              <div class="tab-pane active" id="tab01" role="tabpanel">
+                                   <div class="tab-pane-item">
+                                        <h2>Điểm danh</h2>
+                                        <p>Sinh viên đi học sẽ được điểm danh và đánh giá thái độ học tập tại đây.</p>
+                                   </div>
+                                   <div class="tab-pane-item">
+                                        <a href="login.php"><h2>Login</h2></a>
+                                        <p>Sinh viên cần đăng nhập để có thể xem được.</p>
+                                   </div>
+                              </div>
+
+
+                              <div class="tab-pane" id="tab02" role="tabpanel">
+                                   <div class="tab-pane-item">
+                                        <h2>Điểm quá trình</h2>
+                                        <p>Điểm quá trình sẽ được public trên hệ thống.</p>
+                                   </div>
+                                   <div class="tab-pane-item">
+                                        <h2>Điểm thi</h2>
+                                        <p>Điểm thi sẽ được public trên hệ thống.</p>
+                                   </div>
+                              </div>
+
+                           
+                         </div>
+
+                    </div>
+
+                    <div class="col-md-6 col-sm-6">
+                         <div class="feature-image">
+                              <img src="images/cse.jpg" class="img-responsive" alt="Thin Laptop">                             
+                         </div>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+
+
+
    
 
 </body>
-  <!-- Footer -->
-<div id="footer">
-    <div class="container">
-        <p>LIÊN HỆ: 0987654321</p><br>
-        
-        
-        <p><a href="ntminhhieu98@gmail.com">Email:ntminhhieu98@gmail.com</a></p>
-    </div>
-</div>
-
-
-</html>
+<?php include "footer.php"?>

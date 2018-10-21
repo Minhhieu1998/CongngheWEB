@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 
-	<title>HỆ THỐNG ĐIỂM DANH VÀ QUẢN LÝ</title>
-	
+  <title>HỆ THỐNG ĐIỂM DANH VÀ QUẢN LÝ</title>
+  
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
@@ -57,7 +57,7 @@
                          <li><a href="#contact" class="smoothScroll">Phản hồi</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                         <li><a href="login.php" class="smoothScroll">Đăng nhập</a></li>
+                         <li><a href="login.php" class="smoothScroll">Đăng xuất</a></li>
                     </ul>
                </div>
 
@@ -245,6 +245,45 @@
           </div>
      </section>
 
+<?php require_once("lib/connection.php"); ?>
+
+<?php
+  // Lấy 16 bài viết mới nhất đã được phép public ra ngoài từ bảng posts
+  $sql = "select * from posts where is_public = 1 order by createdate desc limit 16";
+  
+  $query = mysqli_query($conn,$sql);
+?>
+      <div class="innertube" style="background-color: pink;margin-top: 50px;margin-left: 250px;margin-right: 250px;text-align: center;">
+        <table width="100%" border="1">
+          <tr>
+          <?php
+            
+            $i = 0;
+            
+            while ( $data = mysqli_fetch_array($query) ) {
+              
+              if ($i == 2) {
+                echo "</tr>";
+                $i = 0;
+              }
+          ?>
+            <td >
+              <b><?php echo $data["title"];// In ra title bài viết ?></b>
+              <p><?php echo substr($data["content"], 0, 100)." ...";// In ra nội dung bài viết lấy chỉ 100 ký tự ?></p>
+              <a href="display.php?id=<?php echo $data["id"]; // Tạo liên kết đến trang display.php và truyền vào id bài viết ?>"> Xem thêm</a>
+            </td>
+          
+          <?php
+              $i++;
+            }
+          ?>
+        </table>  
+      </div>
+    </main>>
+        
+    
+    <nav>
+
 
      <!-- PRICING -->
      <section id="pricing" data-stellar-background-ratio="0.5">
@@ -350,38 +389,4 @@
      </section>       
 
 
-     <!-- FOOTER -->
-     <footer id="footer" data-stellar-background-ratio="0.5">
-          <div class="container">
-               <div class="row">
-
-                    <div class="copyright-text col-md-12 col-sm-12">
-                         <div class="col-md-6 col-sm-6">
-                              <p>Copyright &copy; 2018 Company Name - Design:
-                				<a rel="nofollow" href="http://tooplate.com">Tooplate</a></p>
-                         </div>
-
-                         <div class="col-md-6 col-sm-6">
-                              <ul class="social-icon">
-                                   <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
-                                   <li><a href="#" class="fa fa-twitter"></a></li>
-                                   <li><a href="#" class="fa fa-instagram"></a></li>
-                              </ul>
-                         </div>
-                    </div>
-
-               </div>
-          </div>
-     </footer>
-
-
-     <!-- SCRIPTS -->
-     <script src="js/jquery.js"></script>
-     <script src="js/bootstrap.min.js"></script>
-     <script src="js/jquery.stellar.min.js"></script>
-     <script src="js/owl.carousel.min.js"></script>
-     <script src="js/smoothscroll.js"></script>
-     <script src="js/custom.js"></script>
-
-</body>
-</html>
+ <?php include "footer.php"?>
