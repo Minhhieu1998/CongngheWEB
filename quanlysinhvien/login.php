@@ -123,7 +123,7 @@ else header("location:giaovien.php");
 	<form method="POST" action="login.php">
 
 		
-	<fieldset style="background-color: grey;">
+	<fieldset style="background-color: gray;">
 	    <legend style="height: 40px;background-color: grey;">ĐĂNG NHẬP</legend>
 	    	<table style="margin-left: 100px;">
 	    		<tr>

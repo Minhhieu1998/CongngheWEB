@@ -53,8 +53,8 @@
                          <li><a href="#home" class="smoothScroll">Trang chủ</a></li>
                          <li><a href="#feature" class="smoothScroll">Điểm danh/Điểm sinh viên</a></li>
                          <li><a href="#about" class="smoothScroll">Tin tức</a></li>
-                         <li><a href="#pricing" class="smoothScroll">Môn học</a></li>
-                         <li><a href="#contact" class="smoothScroll">Phản hồi</a></li>
+                         <li><a href="#pricing" class="smoothScroll">Thực tập</a></li>
+                      
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                          <li><a href="login.php" class="smoothScroll">Đăng nhập</a></li>
@@ -149,22 +149,23 @@
 
      <!-- ABOUT -->
      <section id="about" data-stellar-background-ratio="0.5">
-          <div class="container">
+         <div class="container">
                <div class="row">
 
                     <div class="col-md-offset-3 col-md-6 col-sm-12">
                          <div class="section-title">
-                              <h1>Sinh viên tiêu biểu của khoa</h1>
+                              <h1>TIN TỨC MỚI</h1>
                          </div>
                     </div>
 
                     <div class="col-md-4 col-sm-4">
                          <div class="team-thumb">
-                              <img src="images/3d.jpg" class="img-responsive" alt="Andrew Orange">
+                              <img src="images/dslab.jpg" class="img-responsive" alt="Andrew Orange">
                               <div class="team-info team-thumb-up">
-                                   <h2>Đinh Đăng Đức</h2>
-                                   <small>Lớp 58HT</small>
-                                   <p>Đạt học bổng xuất sắc 3 năm liên tiếp ,đạt giả trong các cuộc thi cấp quốc gia.</p>
+                                   <h2>DSLab - VIASM</h2>
+                                   <small></small>
+                                   <p>DSLab - VIASM
+                                   Nhu cầu thực về ứng dụng trí tuệ nhân tạo, khoa học dữ liệu tại thị trường Việt Nam đang nóng, đặc biệt là đặt hàng từ các tổ chức trong chính phủ, các doanh nghiệp nhà nước và công ty tư nhân.Sau 3 tháng ra mắt, phòng thí nghiệm Khoa học dữ liệu của Viện Toán cao cấp (DSLab VIASM) đang gặp phải vấn đề lớn, khó giải quyết ngay trong thời gian ngắn, đó là có quá nhiều đề nghị hợp tác, có nhiều đơn đặt hàng kèm theo các khoản đầu tư hấp dẫn.</p>
                               </div>
                          </div>
                     </div>
@@ -172,21 +173,25 @@
                     <div class="col-md-4 col-sm-4">
                          <div class="team-thumb">
                               <div class="team-info team-thumb-down">
-                                   <h2>Lê Văn Cầm</h2>
-                                   <small>Lớp 58Ht</small>
-                                   <p>Là nhân tài của đất nước ,Cầm đã đạt được nhiều thành tích trong các cuộc thi trong nước và quốc tế .</p>
+                                   <h2>CÔNG NGHỆ WEB</h2>
+                                   <small></small>
+                                   <p>Mở thêm lớp học web tại tầng 2 , phong học 203 tòa nhà C5 , trường đại học Thủy Lợi . <br>
+                                        Giáo viên giảng dạy : Kiều Tuấn Dũng <br>
+                                        Thời gian học : 31/11- 31/12/2018</p>
                               </div>
-                              <img src="images/cam1.jpg" class="img-responsive" alt="Catherine Soft">
+                              <img src="images/cnw.png" class="img-responsive" alt="Catherine Soft">
                          </div>
                     </div>
 
                     <div class="col-md-4 col-sm-4">
                          <div class="team-thumb">
-                              <img src="images/tung.jpg" class="img-responsive" alt="Jack Wilson">
+                              <img src="images/c.png" class="img-responsive" alt="Jack Wilson">
                               <div class="team-info team-thumb-up">
-                                   <h2>Nguyễn Sơn Tùng</h2>
-                                   <small>Lớp 58HT</small>
-                                   <p>Với điểm tổng kết 3.9/4.0 , Tùng đang là sinh viên có thành tích tốt nhất của trường ta ,là niềm tự hào của khoa CNTT chúng ta.</p>
+                                   <h2>NGÔN NGỮ LẬP TRÌNH NÂNG CAO</h2>
+                                   <small></small>
+                                   <p>Mở thêm lớp học NGÔN NGỮ LẬP TRÌNH tại tầng 2 , phong học 203 tòa nhà C5 , trường đại học Thủy Lợi . <br>
+                                        Giáo viên giảng dạy : Kiều Tuấn Dũng <br>
+                                        Thời gian học : 31/11- 31/12/2018.</p>
                               </div>
                          </div>
                     </div>
@@ -194,57 +199,6 @@
                </div>
           </div>
      </section>
-
-
-     <!-- TESTIMONIAL -->
-     <section id="testimonial" data-stellar-background-ratio="0.5">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-md-6 col-sm-12">
-                         <div class="testimonial-image"></div>
-                    </div>
-
-                    <div class="col-md-6 col-sm-12">
-                         <div class="testimonial-info">
-                              
-                              <div class="section-title">
-                                   <h1>What People Say</h1>
-                              </div>
-
-                              <div class="owl-carousel owl-theme">
-                                   <div class="item">
-                                        <h3>Vestibulum tempor facilisis efficitur. Sed nec nisi sit amet nibh pellentesque elementum. In viverra ipsum ornare sapien rhoncus ullamcorper.</h3>
-                                        <div class="testimonial-item">
-                                             <img src="images/tst-image1.jpg" class="img-responsive" alt="Michael">
-                                             <h4>Michael</h4>
-                                        </div>
-                                   </div>
-
-                                   <div class="item">
-                                        <h3>Donec pretium tristique elit eget sodales. Pellentesque posuere, nunc id interdum venenatis, leo odio cursus sapien, ac malesuada nisl libero eget urna.</h3>
-                                        <div class="testimonial-item">
-                                             <img src="images/tst-image2.jpg" class="img-responsive" alt="Sofia">
-                                             <h4>Sofia</h4>
-                                        </div>
-                                   </div>
-
-                                   <div class="item">
-                                        <h3>Lorem ipsum dolor sit amet, consectetur adipisicing eiusmod tempor incididunt ut labore et dolore magna.</h3>
-                                        <div class="testimonial-item">
-                                             <img src="images/tst-image3.jpg" class="img-responsive" alt="Monica">
-                                             <h4>Monica</h4>
-                                        </div>
-                                   </div>
-                              </div>
-
-                         </div>
-                    </div>
-                    
-               </div>
-          </div>
-     </section>
-
 
      <!-- PRICING -->
      <section id="pricing" data-stellar-background-ratio="0.5">
@@ -253,44 +207,24 @@
 
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
-                              <h1>Một số khóa học cho bạn</h1>
+                              <h1>Chương trình thực tập cho sinh viên</h1>
                          </div>
                     </div>
 
                     <div class="col-md-4 col-sm-6">
                          <div class="pricing-thumb">
                              <div class="pricing-title">
-                                  <h2>Lập trình web</h2>
+                                  <h2>Công ty Ahihi</h2>
                              </div>
                              <div class="pricing-info">
-                                   <p>Làm thế nào để tạo 1 trang web?</p>
-                                   <p>Giới thiệu HTML5 và CSS3</p>
-                                   <p>Bootraps và Js</p>
-                                   <p>20 buổi/1 khóa</p>
-                                   <p>2h/1 buổi</p>
-                             </div>
+                                   <p>Có kĩ năng C/C++</p>
+                                   <p>Chăm chỉ ,chịu khó, trung trực.</p>
+                                   <p>Được training lại từ đầu.</p>
+                                   <p>Partime/Fulltime</p>
+                                                              </div>
                              <div class="pricing-bottom">
-                                   <span class="pricing-dollar">500k/1 khóa</span>
-                                   <a href="#" class="section-btn pricing-btn">Đăng ký </a>
-                             </div>
-                         </div>
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                         <div class="pricing-thumb">
-                             <div class="pricing-title">
-                                  <h2>Business</h2>
-                             </div>
-                             <div class="pricing-info">
-                                   <p>50 Responsive Designs</p>
-                                   <p>30 Dashboards</p>
-                                   <p>2 TB Storage</p>
-                                   <p>12 TB Bandwidth</p>
-                                   <p>15-minute Support</p>
-                             </div>
-                             <div class="pricing-bottom">
-                                   <span class="pricing-dollar">$350/mo</span>
-                                   <a href="#" class="section-btn pricing-btn">Register now</a>
+                                   <span class="pricing-dollar">~~~~~~</span>
+                                   <a href="#" class="section-btn pricing-btn">Xem thêm </a>
                              </div>
                          </div>
                     </div>
@@ -298,18 +232,37 @@
                     <div class="col-md-4 col-sm-6">
                          <div class="pricing-thumb">
                              <div class="pricing-title">
-                                  <h2>Professional</h2>
+                                  <h2>Nát tếch</h2>
                              </div>
                              <div class="pricing-info">
-                                   <p>100 Responsive Designs</p>
-                                   <p>60 Dashboards</p>
-                                   <p>5 TB Storage</p>
-                                   <p>25 TB Bandwidth</p>
-                                   <p>1-minute Support</p>
+                                   <p>Lập trình web.</p>
+                                   <p>tester,coder...</p>
+                                   <p>PHP, .NET,...</p>
+                                   <p>Tuyển thực tập sinh.</p>
+                                   <p></p>
                              </div>
                              <div class="pricing-bottom">
-                                   <span class="pricing-dollar">$550/mo</span>
-                                   <a href="#" class="section-btn pricing-btn">Register now</a>
+                                   <span class="pricing-dollar">~~~~~~~~~</span>
+                                   <a href="#" class="section-btn pricing-btn">Xem thêm</a>
+                             </div>
+                         </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                         <div class="pricing-thumb">
+                             <div class="pricing-title">
+                                  <h2>FPT</h2>
+                             </div>
+                             <div class="pricing-info">
+                                   <p>Sinh viên năm 3 ,4 theo học ngành CNTT.</p>
+                                   <p>Nhiều vị trí việc làm hấp dẫn.</p>
+                                   <p>Partime/Fulltime</p>
+                                   <p>liên tục tổ chức party ,dã ngoại,..</p>
+                                   <p></p>
+                             </div>
+                             <div class="pricing-bottom">
+                                   <span class="pricing-dollar">~~~~~~~~</span>
+                                   <a href="#" class="section-btn pricing-btn">Xem thêm</a>
                              </div>
                          </div>
                     </div>
@@ -319,35 +272,6 @@
      </section>   
 
 
-     <!-- CONTACT -->
-     <section id="contact" data-stellar-background-ratio="0.5">
-          <div class="container">
-               <div class="row">
-
-                    <div class="col-md-offset-1 col-md-10 col-sm-12">
-                         <form id="contact-form" role="form" action="" method="post">
-                              <div class="section-title">
-                                   <h1>Phản hồi</h1>
-                              </div>
-
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="text" class="form-control" placeholder="Full name" name="name" required="">
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="email" class="form-control" placeholder="Email address" name="email" required="">
-                              </div>
-                              <div class="col-md-4 col-sm-4">
-                                   <input type="submit" class="form-control" name="send message" value="Gửi phản hồi">
-                              </div>
-                              <div class="col-md-12 col-sm-12">
-                                   <textarea class="form-control" rows="8" placeholder="Your message" name="message" required=""></textarea>
-                              </div>
-                         </form>
-                    </div>
-
-               </div>
-          </div>
-     </section>       
 
 
      <!-- FOOTER -->
@@ -358,7 +282,7 @@
                     <div class="copyright-text col-md-12 col-sm-12">
                          <div class="col-md-6 col-sm-6">
                               <p>Copyright &copy; 2018 Company Name - Design:
-                				<a rel="nofollow" href="http://tooplate.com">Tooplate</a></p>
+                				<a rel="nofollow" href="http://tooplate.com">minhhieu</a></p>
                          </div>
 
                          <div class="col-md-6 col-sm-6">

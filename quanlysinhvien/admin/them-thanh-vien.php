@@ -32,47 +32,37 @@
 		
 	}
 ?>
- <!DOCTYPE html>
-<html>
-<title>QUẢN LÝ SINH VIÊN</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="../css/trangchu.css">
-<link rel="stylesheet" href="../css/anh.css">
-<link rel="stylesheet" href="../css/menu.css">
-<link rel="stylesheet" href="../css/footer.css">
-<style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
-</style>
-<body class="w3-light-grey">
-    <div id="menu">
-  <ul>
-    <div class="logo">
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-    <a href="trangchu.html" target="_blank"><img src="../lib/logo.png"></a>
-    </div>
+	<title>HỆ THỐNG ĐIỂM DANH VÀ QUẢN LÝ</title>
+	
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
+     <meta name="team" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <li><a href="header.php">Trang chủ</a></li>
-    <li>  <a href="../admin/them-thanh-vien.php">Thêm Khóa học</a>
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/owl.carousel.css">
+     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
 
-    </li>
-    <li><a href="#lienhect">Sơ đồ lớp/Điểm danh</a>
+   
 
-    </li>
-    </li>
-    <li><a href="../admin/them-bai-viet.php">Thêm bài viết</a>
-
-    </li>
-    <li><a href="login.php">Đăng xuất</a></li>
-  </ul>
-</div>
+</head>
+<body>
 
 <body>
 	<form action="them-thanh-vien.php" method="post">
-		<table>
+		<fieldset style="height: 500px;width: 1500px;margin-left:300px; ">
+			
+		<table style="font-size: 40px; margin-left: 400px;">
 			<tr>
 				<td colspan="2">
-					<h3>Thêm khóa học</h3>
+					<h3>Thêm tài khoản</h3>
 				</td>
 			</tr>	
 			<tr>
@@ -110,17 +100,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 			</tr>
  
 		</table>
+	</fieldset>
+
 		
 	</form>
-  <!-- Footer -->
-<div id="footer">
-    <div class="container">
-        <p>LIÊN HỆ: 0987654321</p><br>
-        
-        
-        <p><a href="ntminhhieu98@gmail.com">Email:ntminhhieu98@gmail.com</a></p>
-    </div>
-</div>
+ 
 </body>
 
 </html>

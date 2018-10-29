@@ -52,20 +52,17 @@
                     </button>
 
                     <!-- lOGO TEXT HERE -->
-                    <a href="index.html" class="navbar-brand">0ThichHoc</a>
+                    <a href="giaovien.php" class="navbar-brand">0ThichHoc</a>
                </div>
 
                <!-- MENU LINKS -->
                <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                         <li><a href="#home" class="smoothScroll">Trang chủ</a></li>
-                         <li><a href="#feature" class="smoothScroll">Điểm danh/Điểm sinh viên</a></li>
-                         <li><a href="#about" class="smoothScroll">Tin tức</a></li>
-                         <li><a href="#pricing" class="smoothScroll">Môn học</a></li>
-                         <li><a href="#contact" class="smoothScroll">Phản hồi</a></li>
+                         <li><a href="giaovien.php" class="smoothScroll">Trang chủ</a></li>
+                     
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                         <li><a href="#feature" class="smoothScroll">Đăng nhập</a></li>
+                         <li><a href="Login" class="smoothScroll">Đăng xuất</a></li>
                     </ul>
                </div>
 
@@ -100,8 +97,8 @@
   }
  
 ?>
- <form action="them-bai-viet.php" method="post" >
-  <fieldset >
+ <form action="1.php" method="post" >
+  <fieldset  >
   
     <table style="background-color: grey;">
       <tr>
@@ -109,7 +106,7 @@
       </tr>
         <tr>
         <td nowrap="nowrap">Tiêu đề bài viết :</td>
-        <td><input type="text" id="title" name="title"></td>
+        <td ><input type="text" id="title" name="title"></td>
       </tr>
       <tr>
         <td nowrap="nowrap">Nội dung :</td>
@@ -122,16 +119,20 @@
       <tr>
         <td colspan="2" align="center"><input type="submit" name="btn_submit" value="Thêm bài viết"></td>
       </tr>
-    </table>
- 
-    
-  </form>
-                         </div>
-                    </div>
+    </td>
+  </td>
+</tr>
+</table>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</div>
+</section>
 
-               </div>
-          </div>
-     </section>
+ 
+
   <!-- FOOTER -->
      <footer id="footer" data-stellar-background-ratio="0.5">
           <div class="container">
